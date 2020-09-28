@@ -6,6 +6,8 @@ import socket
 import re
 from ipwhois.net import Net
 from ipwhois.asn import IPASN
+import time
+
 
 base_path = Path().absolute()
 ip_to_asn = {}
@@ -57,41 +59,43 @@ def domain_to_ip(domain):
 
 if __name__ == "__main__":
     # data['dateadded'] >= '2020-01-01')] = 270578 rows
-    data = pandas.read_csv(base_path / 'csv.txt', header=8, nrows=270578, parse_dates=['dateadded'])
-    response_data = pandas.read_csv(base_path / 'asn_response_data.csv').set_index('ASN')
-    domains_hosted_on_asn = pandas.read_csv(base_path / 'domains_hosted_per_asn.csv').set_index('ASN')
-    # print(domains_hosted_on_asn)
-    # print(response_data)
 
-    # convert urls to ip addresses
-    ips_urls = data['url'].str.split('/').str[2].str.split(':').str[0].str.split('www.').str[0]
-    ips = [(domain_to_ip(x) if not bool(re.match(r"^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$", x)) else x) for x in ips_urls]
+    j = 9
+    while j <= 270578:
+        start_time = time.time()
+        data = pandas.read_csv(base_path / 'csv.txt', names=['id','dateadded','url','url_status','threat','tags','urlhaus_link','reporter'], nrows=1000, skiprows=j, parse_dates=['dateadded'])
+        response_data = pandas.read_csv(base_path / 'asn_response_data.csv').set_index('ASN')
+        domains_hosted_on_asn = pandas.read_csv(base_path / 'domains_hosted_per_asn.csv').set_index('ASN')
+        # print(domains_hosted_on_asn)
+        # print(response_data)
 
-    # retrieve ASN number and location
-    asn_data = [ip_to_asn_lookup(x) if x and x != '0.0.0.0' else None for x in ips]
-    # do a split, since there might be a possibility that multiple ASNs are returned.
-    asn = [x['asn'].split(" ")[0] if x else None for x in asn_data]
-    # print(asn.index("7296"))
+        # convert urls to ip addresses
+        ips_urls = data['url'].str.split('/').str[2].str.split(':').str[0].str.split('www.').str[0]
+        ips = [(domain_to_ip(x) if not bool(re.match(r"^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$", x)) else x) for x in ips_urls]
 
-    data['asn'] = asn
-    data['asn_loc'] = [x['asn_country_code'] if x else None for x in asn_data]
+        # retrieve ASN number and location
+        asn_data = [ip_to_asn_lookup(x) if x and x != '0.0.0.0' else None for x in ips]
+        # do a split, since there might be a possibility that multiple ASNs are returned.
+        asn = [x['asn'].split(" ")[0] if x else None for x in asn_data]
+        # print(asn.index("7296"))
 
-    # add asn maintainer name
-    asn_name = [response_data.loc['AS' + x, :]['Name'] if x else None for x in asn]
-    data['asn_name'] = asn_name
+        data['asn'] = asn
+        data['asn_loc'] = [x['asn_country_code'] if x else None for x in asn_data]
 
-    # add average response time
-    avg_response_string = [response_data.loc['AS' + x, :]['Average Reaction Time'] if x else None for x in asn]
-    data['avg_response_time'] = avg_response_string
-    # convert this to seconds for
-    data['avg_response_time_seconds'] = string_to_seconds_list(avg_response_string)
+        # add asn maintainer name
+        asn_name = [response_data.loc['AS' + x, :]['Name'] if x and 'AS' + x in response_data.index else None for x in asn]
+        data['asn_name'] = asn_name
 
-    # add number of domains hosted on ASN
-    data['domains_hosted'] = [domains_hosted_on_asn.loc['AS' + x, :]['domains'] if x and 'AS' + x in domains_hosted_on_asn.index else -1 for x in asn]
+        # add average response time
+        avg_response_string = [response_data.loc['AS' + x, :]['Average Reaction Time'] if x and 'AS' + x in response_data.index else None for x in asn]
+        data['avg_response_time'] = avg_response_string
+        # convert this to seconds for
+        data['avg_response_time_seconds'] = string_to_seconds_list(avg_response_string)
 
-    # Count instances of asn_name
-    print(data.asn_name.value_counts())
+        # add number of domains hosted on ASN
+        data['domains_hosted'] = [domains_hosted_on_asn.loc['AS' + x, :]['domains'] if x and 'AS' + x in domains_hosted_on_asn.index else -1 for x in asn]
 
-    print(data)
-
-    data.to_csv('dataset.csv', index=False)
+        data.to_csv(f'results/dataset{j}.csv', index=False)
+        j += 1000
+        end_time = time.time()
+        print(f'Were now at: {j}, it took - {end_time - start_time}')
