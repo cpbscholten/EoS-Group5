@@ -6,7 +6,7 @@ first_line = True
 
 biggest_hp = []
 
-with open('domains_hosted_per_asn.csv') as csv_file:
+with open('../domains_hosted_per_asn.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
