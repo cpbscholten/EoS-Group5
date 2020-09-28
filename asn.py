@@ -19,20 +19,30 @@ def string_to_seconds_list(string_list):
         seconds += int(hours[0]) * 3600 if hours else 0
         seconds += int(days[0]) * 86400 if days else 0
         seconds += int(months[0]) * 2628000 if months else 0
+        seconds = -1 if seconds == 0 else seconds
         seconds_list.append(seconds)
     return seconds_list
+
+
+def get_ip(hostname):
+    try:
+        return socket.gethostbyname(hostname)
+    except socket.gaierror:
+        return '0.0.0.0'
 
 
 if __name__ == "__main__":
     # load csv files
     base_path = Path().absolute()
-    data = pandas.read_csv(base_path / 'csv.txt', header=8, nrows=100, parse_dates=['dateadded'])
+    data = pandas.read_csv(base_path / 'csv.txt', header=8, parse_dates=['dateadded'])
     response_data = pandas.read_csv(base_path / 'asn_response_data.csv').set_index('ASN')
+    domains_hosted_on_asn = pandas.read_csv(base_path / 'domains_hosted_per_asn.csv').set_index('ASN')
+    # print(domains_hosted_on_asn)
     # print(response_data)
 
     # convert urls to ip addresses
     ips_urls = data['url'].str.split('/').str[2].str.split(':').str[0].str.split('www.').str[0]
-    ips = [(socket.gethostbyname(x) if not bool(re.match(r"^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$", x)) else x) for x in ips_urls]
+    ips = [(get_ip(x) if not bool(re.match(r"^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$", x)) else x) for x in ips_urls]
 
     # retrieve ASN number and location
     asn_data = [IPASN(Net(x)).lookup() if x != '0.0.0.0' else None for x in ips]
@@ -50,6 +60,9 @@ if __name__ == "__main__":
     data['avg_response_time'] = avg_response_string
     # convert this to seconds for
     data['avg_response_time_seconds'] = string_to_seconds_list(avg_response_string)
+
+    # add number of domains hosted on ASN
+    data['domains_hosted'] = [domains_hosted_on_asn.loc['AS' + x, :]['domains'] if 'AS'+ x in domains_hosted_on_asn.index and x else -1 for x in asn]
 
     # Count instances of asn_name
     print(data.asn_name.value_counts())
