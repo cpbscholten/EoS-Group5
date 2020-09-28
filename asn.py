@@ -1,4 +1,4 @@
-from typing import Dict, Union, Any
+from typing import Union, Any
 
 import pandas
 from pathlib import Path
@@ -49,7 +49,7 @@ def ip_to_asn_lookup(ip: str) -> Union[dict, Any]:
 
 
 def domain_to_ip(domain):
-    if domain in domain_to_ip_table:
+    if domain and domain in domain_to_ip_table:
         return domain_to_ip_table.loc[domain, :]['ip']
     else:
         return None
@@ -68,7 +68,7 @@ if __name__ == "__main__":
     ips = [(domain_to_ip(x) if not bool(re.match(r"^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$", x)) else x) for x in ips_urls]
 
     # retrieve ASN number and location
-    asn_data = [ip_to_asn_lookup(x) if x != '0.0.0.0' else None for x in ips]
+    asn_data = [ip_to_asn_lookup(x) if x and x != '0.0.0.0' else None for x in ips]
     # do a split, since there might be a possibility that multiple ASNs are returned.
     asn = [x['asn'].split(" ")[0] if x else None for x in asn_data]
     # print(asn.index("7296"))
