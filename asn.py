@@ -58,9 +58,11 @@ def domain_to_ip(domain):
 
 
 if __name__ == "__main__":
+    response_data = pandas.read_csv(base_path / 'asn_response_data.csv').set_index('ASN')
+    domains_hosted_on_asn = pandas.read_csv(base_path / 'domains_hosted_per_asn.csv').set_index('ASN')
+
     # data['dateadded'] >= '2020-01-01')] = 270578 rows
 
-    j = 9
     while j <= 270578:
         start_time = time.time()
         data = pandas.read_csv(base_path / 'csv.txt', names=['id','dateadded','url','url_status','threat','tags','urlhaus_link','reporter'], nrows=1000, skiprows=j, parse_dates=['dateadded'])
