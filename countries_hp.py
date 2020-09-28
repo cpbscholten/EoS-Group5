@@ -32,5 +32,5 @@ plt.xticks(fontsize=10)
 plt.yticks(fontsize=10)
 plt.title('Distribution of HPs',fontsize=15)
 
-plt.savefig("country.pdf")
+plt.savefig("results/country.pdf")
 plt.show()
