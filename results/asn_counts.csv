@@ -78,11 +78,11 @@ AS53133 P & K Networks e Telecomunicacoes Ltda,99
 AS25198 Netaction Telecom Srl-d,97
 AS60404 Liteserver Holding B.V.,96
 AS46664 VDI-NETWORK,95
-AS32875 VIRP,95
 AS131178 OpenNet ISP Cambodia,95
-AS26347 DREAMHOST-AS,93
+AS32875 VIRP,95
 AS45899 VNPT Corp,93
 AS201133 Verdina Ltd.,93
+AS26347 DREAMHOST-AS,93
 AS9009 M247 Ltd,92
 AS174 COGENT-174,89
 AS44901 Belcloud LTD,88
@@ -93,54 +93,54 @@ AS3269 Telecom Italia,83
 AS8100 ASN-QUADRANET-GLOBAL,81
 "AS63949 Linode, LLC",81
 AS213373 IP Connect Inc,80
-AS8551 Bezeq International,78
 AS22612 NAMECHEAP-NET,78
-AS60117 Host Sailor Ltd.,76
+AS8551 Bezeq International,78
 AS7552 Viettel Group,76
+AS60117 Host Sailor Ltd.,76
 AS202448 MVPS LTD,75
 AS9319 HCN CHUNGBUK CABLE TV SYSTEMS,75
 AS57673 Hostclean Srl,74
 AS58224 Iran Telecommunication Company PJS,70
-AS49505 OOO Network of data-centers Selectel,70
 AS197226 sprint S.A.,70
+AS49505 OOO Network of data-centers Selectel,70
 AS701 UUNET,69
-AS397423 TIER-NET,68
-AS200313 Internet It Company Inc,68
-AS46573 LAYER-HOST,68
-AS271008 RSCONNECTION TELECOM COMERCIO E SERVICO LTDA - ME,68
 AS270288 WISP SOLUCOES DE ACESSO LTDA,68
+AS200313 Internet It Company Inc,68
+AS271008 RSCONNECTION TELECOM COMERCIO E SERVICO LTDA - ME,68
+AS46573 LAYER-HOST,68
+AS397423 TIER-NET,68
 AS58329 easystores GmbH,66
-AS396073 MAJESTIC-HOSTING-01,66
 AS9416 Hoshin Multimedia Center Inc.,66
+AS396073 MAJESTIC-HOSTING-01,66
 AS6849 PJSC Ukrtelecom,65
 AS30860 Virtual Systems LLC,63
 AS39798 MivoCloud SRL,62
 AS207679 Smart 2 Host INC SRL,62
+AS45839 Shinjiru Technology Sdn Bhd,61
 AS20860 Iomart Cloud Services Limited,61
 AS7018 ATT-INTERNET4,61
-AS45839 Shinjiru Technology Sdn Bhd,61
 AS34224 Neterra Ltd.,60
 "AS24186 RailTel Corporation of India Ltd., Internet Service Provider, New Delhi",59
-AS44925 1984 ehf,58
-AS17858 LG POWERCOMM,58
 AS132924 Ero Wide Comm Private Limited,58
 AS25369 Hydra Communications Ltd,58
+AS17858 LG POWERCOMM,58
+AS44925 1984 ehf,58
 AS36493 295CA-TOR-ASN,57
-AS28573 CLARO S.A.,55
 AS136175 Serverhosh Internet Service,55
 AS23470 RELIABLESITE,55
+AS28573 CLARO S.A.,55
 AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,54
 AS47447 23media GmbH,54
 AS47510 Crex Fex Pex Internet System Solutions LLC,52
-"AS24445 Henan Mobile Communications Co.,Ltd",51
 AS136200 CHINANET Guangdong province Foshan MAN network,51
-AS208673 ESTOXY OU,51
 AS137694 CHINATELECOM Xinjiang Kezhou MAN network,51
+"AS24445 Henan Mobile Communications Co.,Ltd",51
+AS208673 ESTOXY OU,51
 AS262702 Granadanet Servicos de Informatica S/C. Ltda.,49
 AS62240 Clouvider Limited,49
 AS49532 Eonix Corporation,48
-AS200303 LUMASERV Systems,46
 "AS44323 Preduzece Za Promet, Usluge, Inzenjering I Telekomunikacije Bpp Ing Doo, Grocka",46
+AS200303 LUMASERV Systems,46
 AS18403 The Corporation for Financing & Promoting Technology,46
 AS268902 DANIEL CARVALHO DE OLIVEIRA SILVA ME,45
 AS262364 VIASATDIGITAL TELECOM LTDA,45
@@ -148,1248 +148,1248 @@ AS26082 POWERSHIFT-PLAINFIELD-VT,43
 "AS57332 TOM-NET s.c. Dariusz Koper, Radoslaw Koper",43
 AS51765 Oy Crea Nova Hosting Solution Ltd,42
 AS266274 NETWEST TELECOM,41
-AS29802 HVC-AS,41
 AS7713 PT Telekomunikasi Indonesia,41
+AS29802 HVC-AS,41
+"AS198367 INKO-Telecom, LLC",40
 AS204655 Novogara LTD,40
 AS18049 Taiwan Infrastructure Network Technologie,40
-"AS198367 INKO-Telecom, LLC",40
 AS57043 Hostkey B.v.,39
-"AS24560 Bharti Airtel Ltd., Telemedia Services",38
-AS56046 China Mobile communications corporation,38
 AS201192 Dilmax Corporation,38
-AS131596 TBC,37
+AS56046 China Mobile communications corporation,38
+"AS24560 Bharti Airtel Ltd., Telemedia Services",38
 AS132976 Kings Broadband Pvt Ltd,37
-AS16628 DEDICATED-FIBER-COMMUNICATIONS,36
-AS266321 Joao Pinoti dos Santos-ME,36
-AS6128 CABLE-NET-1,36
-AS133647 ELXIRE DATA SERVICES PVT. LTD.,36
+AS131596 TBC,37
 AS24547 Hebei Mobile Communication Company Limited,36
 "AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",36
-AS204957 ITL-Bulgaria Ltd.,35
+AS133647 ELXIRE DATA SERVICES PVT. LTD.,36
+AS266321 Joao Pinoti dos Santos-ME,36
+AS6128 CABLE-NET-1,36
+AS16628 DEDICATED-FIBER-COMMUNICATIONS,36
 AS17917 Quadrant Televentures Limited,35
-AS20115 CHARTER-20115,35
+AS204957 ITL-Bulgaria Ltd.,35
 AS137131 Dnet E Solutions Pvt Ltd,35
-AS204601 Zomro B.V.,34
+AS20115 CHARTER-20115,35
 AS10796 TWC-10796-MIDWEST,34
+AS204601 Zomro B.V.,34
 AS42397 Bunea TELECOM SRL,33
 AS45090 Shenzhen Tencent Computer Systems Company Limited,33
+AS200651 Flokinet Ltd,32
 AS46562 TOTAL-SERVER-SOLUTIONS,32
 AS36866 JTL,32
-AS200651 Flokinet Ltd,32
 AS8708 RCS & RDS,32
 AS8452 TE-AS,32
 AS137652 Tapee Infocom Private Limited,31
 AS50550 K3 Telecom Sp. z o.o.,31
-AS64236 UNREAL-SERVERS,30
 AS133285 CNS Infotel Services Pvt. Ltd.,30
-AS204213 Netmihan Communication Company Ltd,30
 AS209696 NILSAT Ltd.,30
+AS204213 Netmihan Communication Company Ltd,30
+AS64236 UNREAL-SERVERS,30
+AS207083 HostSlim B.V.,29
 AS44066 First Colo GmbH,29
 AS39378 servinga GmbH,29
-AS207083 HostSlim B.V.,29
 AS198203 RouteLabel V.O.F.,29
-AS24282 KAGOYA JAPAN Inc.,28
-"AS58955 Bangmod Enterprise Co., Ltd.",28
-AS9002 RETN Limited,28
 AS269644 FORMOSA INTERNET E TELECOMUNICACOES LTDA,28
+AS9002 RETN Limited,28
 AS47583 Hostinger International Limited,28
-AS33837 Fredrik Holmqvist,27
-AS213058 Private Internet Hosting LTD,27
-AS30722 Vodafone Italia S.p.A.,27
+"AS58955 Bangmod Enterprise Co., Ltd.",28
+AS24282 KAGOYA JAPAN Inc.,28
 AS35196 Ihor Hosting LLC,27
+AS33837 Fredrik Holmqvist,27
 AS43624 Pq Hosting S.r.l.,27
+AS30722 Vodafone Italia S.p.A.,27
+AS213058 Private Internet Hosting LTD,27
+AS49447 Nice IT Services Group Inc.,26
+AS28205 Ibituruna TV por assinatura S/C Ltda,26
+AS3243 Servicos De Comunicacoes E Multimedia S.A.,26
+AS9534 Binariang Berhad,26
+AS36947 Telecom Algeria,26
+AS38841 kbro CO. Ltd.,26
 AS137951 Clayer Limited,26
 AS11556 Cable & Wireless Panama,26
 AS3352 Telefonica De Espana,26
-AS36947 Telecom Algeria,26
-AS3243 Servicos De Comunicacoes E Multimedia S.A.,26
 AS20001 TWC-20001-PACWEST,26
-AS49447 Nice IT Services Group Inc.,26
-AS9534 Binariang Berhad,26
-AS28205 Ibituruna TV por assinatura S/C Ltda,26
-AS38841 kbro CO. Ltd.,26
-AS53340 FIBERHUB,25
 AS208161 Pars Shabakeh Azarakhsh LLC,25
+AS53340 FIBERHUB,25
 AS34665 Petersburg Internet Network ltd.,25
-AS33363 BHN-33363,24
+AS18881 TELEFONICA BRASIL S.A,24
+AS36114 VERSAWEB-ASN,24
+AS51559 Netinternet Bilisim Teknolojileri AS,24
 AS202242 Aruba S.p.A.,24
 AS18779 EGIHOSTING,24
-AS18881 TELEFONICA BRASIL S.A,24
-AS56876 Ociris GmbH,24
-AS51559 Netinternet Bilisim Teknolojileri AS,24
-AS36114 VERSAWEB-ASN,24
+AS33363 BHN-33363,24
 AS139884 Apeiron Global Pvt. Ltd.,24
-AS4812 China Telecom (Group),23
-AS197922 Techcrea Solutions SARL,23
-AS49335 LLC Server v arendy,23
-AS14618 AMAZON-AES,23
+AS56876 Ociris GmbH,24
 AS4808 China Unicom Beijing Province Network,23
 "AS17552 True Internet Co.,Ltd.",23
+AS197922 Techcrea Solutions SARL,23
+AS4812 China Telecom (Group),23
+AS49335 LLC Server v arendy,23
+AS14618 AMAZON-AES,23
 AS134512 HostPalace Web Solution PVT LTD,22
-AS52048 DataClub S.A.,22
-AS397031 GALAXYGATE,22
-AS9050 Telekom Romania Communication S.A,22
-AS49453 Global Layer B.V.,22
 AS54825 PACKET,22
-AS36903 MT-MPLS,21
-AS52578 Pw Access Telecomunicacoes Ltda,21
-AS43754 Asiatech Data Transmission company,21
-AS18002 AS Number for Interdomain Routing,21
-AS20278 NEXEON,21
+AS49453 Global Layer B.V.,22
+AS397031 GALAXYGATE,22
+AS52048 DataClub S.A.,22
+AS9050 Telekom Romania Communication S.A,22
 AS16125 UAB Cherry Servers,21
-AS4760 HKT Limited,21
+AS52578 Pw Access Telecomunicacoes Ltda,21
+AS36903 MT-MPLS,21
+AS43754 Asiatech Data Transmission company,21
+AS20278 NEXEON,21
 AS262750 Byal Telecom Ltda,21
+AS18002 AS Number for Interdomain Routing,21
+AS4760 HKT Limited,21
 AS136674 Dmp Internet Services Private Limited,21
 AS12271 TWC-12271-NYC,21
+AS40021 CONTABO,20
 AS7545 TPG Telecom Limited,20
 AS63018 DEDICATED,20
-AS40021 CONTABO,20
 AS12430 Vodafone Spain,20
-AS18182 Sony Network Taiwan Limited,19
-AS9121 Turk Telekom,19
-AS1221 Telstra Corporation Ltd,19
-AS44094 Webhost LLC,19
 AS12695 LLC Digital Network,19
-"AS136258 BrainStorm Network, Inc",19
-AS1680 Cellcom Fixed Line Communication L.P.,19
+AS18182 Sony Network Taiwan Limited,19
+AS44094 Webhost LLC,19
 AS11427 TWC-11427-TEXAS,19
-AS15626 ITL LLC,19
+"AS136258 BrainStorm Network, Inc",19
 AS18809 Cable Onda,19
-AS132768 Five network Broadband Solution Pvt Ltd,18
-AS205388 Metaliance ISP Systems e.k,18
-AS5483 Magyar Telekom plc.,18
-AS54600 PEGTECHINC,18
-AS44636 OOO Patent-Media,18
-AS134911 Sigaram Networks Pvt Ltd,18
-AS3215 Orange,18
-"AS45102 Alibaba (US) Technology Co., Ltd.",18
+AS15626 ITL LLC,19
+AS9121 Turk Telekom,19
+AS1680 Cellcom Fixed Line Communication L.P.,19
+AS1221 Telstra Corporation Ltd,19
 AS63916 IPTELECOM Global,18
+AS54600 PEGTECHINC,18
+AS132768 Five network Broadband Solution Pvt Ltd,18
+AS134911 Sigaram Networks Pvt Ltd,18
+"AS45102 Alibaba (US) Technology Co., Ltd.",18
+AS3215 Orange,18
+AS44636 OOO Patent-Media,18
+AS5483 Magyar Telekom plc.,18
+AS205388 Metaliance ISP Systems e.k,18
 AS12978 Demiroren Tv Digital Platform Isletmeciligi A.s.,17
-AS29182 JSC The First,17
 AS11830 Instituto Costarricense de Electricidad y Telecom.,17
-AS207319 IP Ivanov Dmitry Alekseevich,17
-AS577 BACOM,17
-AS134869 DHL BROADBAND NET P LIMITED,17
-AS136917 IFRA NETWORK,17
 AS12849 Hot-Net internet services Ltd.,17
-"AS9919 New Century InfoComm Tech Co., Ltd.",16
-AS59447 Istanbuldc Veri Merkezi Ltd Sti,16
-AS396362 LEASEWEB-USA-NYC-11,16
-AS16135 Turkcell Iletisim Hizmetleri A.s.,16
-AS266186 Eleandro Luiz Sampaio,16
+AS136917 IFRA NETWORK,17
+AS577 BACOM,17
+AS207319 IP Ivanov Dmitry Alekseevich,17
+AS29182 JSC The First,17
+AS134869 DHL BROADBAND NET P LIMITED,17
 AS32489 AMANAHA-NEW,16
+AS16135 Turkcell Iletisim Hizmetleri A.s.,16
+AS396362 LEASEWEB-USA-NYC-11,16
 AS12083 WOW-INTERNET,16
-AS135783 Comex Computer Pvt Ltd,15
-AS28753 Leaseweb Deutschland GmbH,15
-AS46844 ST-BGP,15
-AS208440 GmhostGrupp OU,15
-AS21100 ITL LLC,15
-AS140313 CHINATELECOM Guangdong province Zhaoqing 5G network,15
-AS136357 Siddiqui Global Services Pvt. Ltd.,15
-"AS263767 CORPORACION GALA IT, C.A.",15
-AS44375 Asmanfaraz Sepahan Isdp (pjs),15
-AS135259 SKYLINE INFONET PRIVATE LIMITED,15
-AS48347 JSC Mediasoft ekspert,15
-AS49106 Opticom Group AO,15
-AS5410 Bouygues Telecom SA,15
-AS26599 TELEFONICA BRASIL S.A,15
-AS207408 servinga GmbH,15
+AS266186 Eleandro Luiz Sampaio,16
+AS59447 Istanbuldc Veri Merkezi Ltd Sti,16
+"AS9919 New Century InfoComm Tech Co., Ltd.",16
 AS6428 CDM,15
-AS4713 NTT Communications Corporation,14
-AS27775 Telecommunicationcompany Suriname - TeleSur,14
+AS26599 TELEFONICA BRASIL S.A,15
+AS21100 ITL LLC,15
+AS136357 Siddiqui Global Services Pvt. Ltd.,15
+AS46844 ST-BGP,15
+AS44375 Asmanfaraz Sepahan Isdp (pjs),15
+AS208440 GmhostGrupp OU,15
+"AS263767 CORPORACION GALA IT, C.A.",15
+AS28753 Leaseweb Deutschland GmbH,15
+AS49106 Opticom Group AO,15
+AS135259 SKYLINE INFONET PRIVATE LIMITED,15
+AS207408 servinga GmbH,15
+AS135783 Comex Computer Pvt Ltd,15
+AS5410 Bouygues Telecom SA,15
+AS140313 CHINATELECOM Guangdong province Zhaoqing 5G network,15
+AS48347 JSC Mediasoft ekspert,15
 AS8926 Moldtelecom SA,14
-AS56309 408 Fl4 CATTOWER,14
-AS56268 Northeast Dataa Network Pvt Ltd,14
-AS49367 Seflow S.N.C. Di Marco Brame' & C.,14
-AS133159 Mammoth Media Pty Ltd,14
-AS41164 Telia Norge AS,14
 AS9443 Vocus Retail,14
 AS41732 Mihaila N Valentin-eugen Pfa,14
-AS37457 Telkom-Internet,14
-AS140310 CHINATELECOM Guangdong province Dongguan 5G network,14
+AS56309 408 Fl4 CATTOWER,14
+AS4713 NTT Communications Corporation,14
+AS133159 Mammoth Media Pty Ltd,14
 AS6405 AIN,14
-AS2856 British Telecommunications PLC,14
+AS41164 Telia Norge AS,14
+AS56268 Northeast Dataa Network Pvt Ltd,14
+AS140310 CHINATELECOM Guangdong province Dongguan 5G network,14
 AS35773 iConnect Ltd.,14
-AS204548 Kamatera Inc,13
-AS27357 RACKSPACE,13
-AS199653 Aruba SAS,13
-AS55453 SKY TELECOM,13
+AS49367 Seflow S.N.C. Di Marco Brame' & C.,14
+AS27775 Telecommunicationcompany Suriname - TeleSur,14
+AS37457 Telkom-Internet,14
+AS2856 British Telecommunications PLC,14
+"AS136190 JINHUA, ZHEJIANG Province, P.R.China.",13
 AS140061 Qinghai Telecom,13
-AS197071 active 1 GmbH,13
-AS52284 Panamaserver.com,13
-AS202468 Noyan Abr Arvan Co. ( Private Joint Stock),13
-AS137409 GSL Networks Pty LTD,13
 AS6830 Liberty Global B.V.,13
 AS22368 TELEBUCARAMANGA S.A. E.S.P.,13
-"AS136190 JINHUA, ZHEJIANG Province, P.R.China.",13
-AS59253 Leaseweb Asia Pacific pte. ltd.,13
-AS48693 Rices Privately owned enterprise,13
-AS271164 NORLEI FERNANDO BUHLER - ME,13
-AS40065 CNSERVERS,13
 AS205840 Dataline Ltd,13
-AS139956 CV. NATANETWORK SOLUTION,13
-AS199883 ArubaCloud Limited,13
-AS3320 Deutsche Telekom AG,13
-AS42331 PE Freehost,13
+AS204548 Kamatera Inc,13
+AS7795 LUMOS,13
+AS55453 SKY TELECOM,13
+AS59253 Leaseweb Asia Pacific pte. ltd.,13
 AS10297 ENET-2,13
+AS137409 GSL Networks Pty LTD,13
+AS197071 active 1 GmbH,13
+AS271164 NORLEI FERNANDO BUHLER - ME,13
+AS199883 ArubaCloud Limited,13
+AS42331 PE Freehost,13
+AS199653 Aruba SAS,13
+AS40065 CNSERVERS,13
+AS3320 Deutsche Telekom AG,13
+AS139956 CV. NATANETWORK SOLUTION,13
+AS40824 WZCOM,13
+AS52284 Panamaserver.com,13
+AS136704 Apex Broadband Network Pvt. Ltd.,13
+AS202468 Noyan Abr Arvan Co. ( Private Joint Stock),13
 AS60781 LeaseWeb Netherlands B.V.,13
+AS27357 RACKSPACE,13
+AS48693 Rices Privately owned enterprise,13
 AS4780 Digital United Inc.,13
 AS19148 LEASEWEB-USA-PHX-11,13
-AS7795 LUMOS,13
-AS40824 WZCOM,13
-AS136704 Apex Broadband Network Pvt. Ltd.,13
-AS28840 Ojsc oao Tattelecom,12
-AS12874 Fastweb,12
-AS265317 TRIXNET SERVICOS DE TELEINFORMATICA LTDA,12
-AS27715 Locaweb Servicos de Internet S/A,12
-"AS8048 CANTV Servicios, Venezuela",12
-AS14745 INTERNAP-BLOCK-4,12
-AS12179 INTERNAP-2BLK,12
-AS34549 meerfarbig GmbH & Co. KG,12
-AS270353 Tyna Host - Datacenter no Brasil,12
-AS204324 adnet internet ve iletisim hizmetleri tic ltd sti,12
-AS58898 Rainbow communications India Pvt Ltd,12
-AS28202 Rede Brasileira de Comunicacao Ltda,12
-AS29602 InfraCom Managed Services AB,12
-AS207656 Epinatura LLC,12
-AS9116 Partner Communications Ltd.,12
-AS6713 Itissalat Al-MAGHRIB,12
-AS213251 Metaliance ISP Systems e.k,12
 "AS34700 Maxnet Telecom, Ltd",12
+AS270353 Tyna Host - Datacenter no Brasil,12
+AS28840 Ojsc oao Tattelecom,12
 AS262522 CITYDATA TELECOMUNICACOES LTDA.,12
-AS134331 Smartlink Solutions Pvt. Ltd.,11
-AS37705 TOPNET,11
-AS44679 INVITE Systems SRL,11
-"AS24806 INTERNET CZ, a.s.",11
-AS50979 ITL LLC,11
-AS20928 Noor Data Networks ASN,11
-AS48254 20i Limited,11
-AS56694 LLC Smart Ape,11
-AS204641 HOSTGW SRL,11
+AS12179 INTERNAP-2BLK,12
+AS6713 Itissalat Al-MAGHRIB,12
+AS207656 Epinatura LLC,12
+AS14745 INTERNAP-BLOCK-4,12
+"AS8048 CANTV Servicios, Venezuela",12
+AS34549 meerfarbig GmbH & Co. KG,12
+AS265317 TRIXNET SERVICOS DE TELEINFORMATICA LTDA,12
+AS29602 InfraCom Managed Services AB,12
+AS27715 Locaweb Servicos de Internet S/A,12
+AS58898 Rainbow communications India Pvt Ltd,12
+AS213251 Metaliance ISP Systems e.k,12
+AS28202 Rede Brasileira de Comunicacao Ltda,12
+AS204324 adnet internet ve iletisim hizmetleri tic ltd sti,12
+AS9116 Partner Communications Ltd.,12
+AS12874 Fastweb,12
 AS28260 ALTA REDE CORPORATE NETWORK TELECOM LTDA - EPP,11
-"AS4788 TM Net, Internet Service Provider",11
-AS30036 MEDIACOM-ENTERPRISE-BUSINESS,11
-AS270486 NETWORKS INFORMATICA,11
-AS134877 Sri Vari Network Private Limited,11
+AS48254 20i Limited,11
+AS50979 ITL LLC,11
+AS5650 FRONTIER-FRTR,11
+AS201094 Mulgin Alexander Sergeevich,11
+AS44679 INVITE Systems SRL,11
 AS1267 Wind Tre S.p.A.,11
 AS20454 SSASN2,11
-AS36007 KAMATERA,11
-AS5650 FRONTIER-FRTR,11
-AS61918 RALUEL COMERCIO LTDA ME,11
-AS17623 China Unicom Shenzen network,11
-AS47869 Netrouting,11
-AS7303 Telecom Argentina S.A.,11
-"AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide",11
-AS201094 Mulgin Alexander Sergeevich,11
+"AS24806 INTERNET CZ, a.s.",11
+AS204641 HOSTGW SRL,11
 AS40244 TURNKEY-INTERNET,11
+AS7303 Telecom Argentina S.A.,11
+AS47869 Netrouting,11
+AS61918 RALUEL COMERCIO LTDA ME,11
+AS56694 LLC Smart Ape,11
 AS62292 EZIT Kft.,11
-AS271084 TRYMNET INFORMATICA LTDA,10
-AS265448 NETWORK INFORMATICA LTDA. - ME,10
-AS9371 SAKURA Internet Inc.,10
-AS25472 Wind Hellas Telecommunications SA,10
+AS36007 KAMATERA,11
+"AS4788 TM Net, Internet Service Provider",11
+AS30036 MEDIACOM-ENTERPRISE-BUSINESS,11
+AS134877 Sri Vari Network Private Limited,11
+"AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide",11
+AS270486 NETWORKS INFORMATICA,11
+AS20928 Noor Data Networks ASN,11
+AS134331 Smartlink Solutions Pvt. Ltd.,11
+AS17623 China Unicom Shenzen network,11
+AS37705 TOPNET,11
 AS270310 ELETRONIC SPORT S BRASILIA LTD ME,10
-AS13768 COGECO-PEER1,10
-AS24086 Viettel Corporation,10
-AS262333 ZUKNET Networks Ltda ME,10
-AS2 UDEL-DCN,10
-AS263424 Fonelight Telecomunicacoes S/A,10
-AS133648 MNR Broadband Services Pvt. Ltd.,10
+AS9371 SAKURA Internet Inc.,10
+AS271084 TRYMNET INFORMATICA LTDA,10
 AS134270 Planet Wi Fi Private Limited,10
-AS22773 ASN-CXA-ALL-CCI-22773-RDC,10
-AS265390 Topnet Telecom Servicos LTDA ME,10
-AS201295 Shabakeh Ertebatat Artak Towseeh LTD,10
-AS4662 GCNet (Reach & Range Inc.),10
-AS52928 JANAJA SERVICOS LTDA,10
 AS13285 TalkTalk,10
+AS133648 MNR Broadband Services Pvt. Ltd.,10
+AS201295 Shabakeh Ertebatat Artak Towseeh LTD,10
+AS13768 COGECO-PEER1,10
+AS4662 GCNet (Reach & Range Inc.),10
+AS25472 Wind Hellas Telecommunications SA,10
 AS59210 PhoenixNAP,10
-AS268786 L H FERREIRA ZOBY ME,9
-AS268164 ADRIANO CIRILO PASQUAL DONEDA EIRELI,9
-AS268171 Meganet Tecnologia LTDA,9
-AS18013 ASLINE LIMITED,9
-AS45011 A3 Sverige AB,9
+AS52928 JANAJA SERVICOS LTDA,10
+AS2 UDEL-DCN,10
+AS265448 NETWORK INFORMATICA LTDA. - ME,10
+AS262333 ZUKNET Networks Ltda ME,10
+AS22773 ASN-CXA-ALL-CCI-22773-RDC,10
+AS24086 Viettel Corporation,10
+AS265390 Topnet Telecom Servicos LTDA ME,10
+AS263424 Fonelight Telecomunicacoes S/A,10
+"AS197695 Domain names registrar REG.RU, Ltd",9
+AS58073 YISP B.V.,9
+AS55990 Huawei Cloud Service data center,9
+AS45117 Ishan's Network,9
 AS3301 Telia Company AB,9
 AS58969 Kerala Communicators Cable Limited,9
 AS28890 INSYS LLC,9
 AS268307 GILBERTO MORALES INFORMATICA-ME,9
-AS58073 YISP B.V.,9
-AS55990 Huawei Cloud Service data center,9
 AS34984 Tellcom Iletisim Hizmetleri A.s.,9
-"AS9924 Taiwan Fixed Network, Telco and Network Service Provider.",9
-"AS197695 Domain names registrar REG.RU, Ltd",9
-AS16735 ALGAR TELECOM S/A,9
-AS45117 Ishan's Network,9
-AS212786 Pooky L&W SDN BHD,9
 AS3255 State Enterprise Scientific and Telecommunication Centre Ukrainian Academic and Research Netw,9
-AS7684 SAKURA Internet Inc.,8
-AS208951 It-grad Nl B.v.,8
-"AS265790 COOP. DE PROV. DE SERV. ELECTRICOS Y OTROS SERV. PUB. DE SERV. SOCIALES, CRED. Y VIVIENDA L",8
-AS29119 ServiHosting Networks S.L.,8
-AS137145 Light Wave Digital Network Private Limited,8
-AS135225 SMART NET INDIA PVT LTD,8
-AS262767 Avelino e Rodrigues LTDA,8
-AS269677 Gerson Cerqueira,8
-AS136652 Bytel Tranet Private Limited,8
-AS3329 Vodafone-panafon Hellenic Telecommunications Company SA,8
-AS8386 Vodafone Net Iletisim Hizmetleri Anonim Sirketi,8
-AS27865 Tecnologia WorkOut S.A.,8
-AS3786 LG DACOM Corporation,8
-AS19531 NODESDIRECT,8
-AS209 CENTURYLINK-US-LEGACY-QWEST,8
-AS9500 Vodafone NZ Ltd.,8
-AS36351 SOFTLAYER,8
-AS56042 China Mobile communications corporation,8
+AS45011 A3 Sverige AB,9
+AS268786 L H FERREIRA ZOBY ME,9
+AS212786 Pooky L&W SDN BHD,9
+"AS9924 Taiwan Fixed Network, Telco and Network Service Provider.",9
+AS268171 Meganet Tecnologia LTDA,9
+AS18013 ASLINE LIMITED,9
+AS16735 ALGAR TELECOM S/A,9
+AS268164 ADRIANO CIRILO PASQUAL DONEDA EIRELI,9
 AS8717 A1 Bulgaria EAD,8
-AS5089 Virgin Media Limited,8
+AS136652 Bytel Tranet Private Limited,8
 AS58061 Scalaxy B.V.,8
-AS14576 HOSTING-SOLUTIONS,7
-AS206728 Media Land LLC,7
+AS29119 ServiHosting Networks S.L.,8
+AS56042 China Mobile communications corporation,8
+AS8386 Vodafone Net Iletisim Hizmetleri Anonim Sirketi,8
+AS269677 Gerson Cerqueira,8
+AS209 CENTURYLINK-US-LEGACY-QWEST,8
+AS5089 Virgin Media Limited,8
+AS208951 It-grad Nl B.v.,8
+AS137145 Light Wave Digital Network Private Limited,8
+AS262767 Avelino e Rodrigues LTDA,8
+AS36351 SOFTLAYER,8
+"AS265790 COOP. DE PROV. DE SERV. ELECTRICOS Y OTROS SERV. PUB. DE SERV. SOCIALES, CRED. Y VIVIENDA L",8
+AS3329 Vodafone-panafon Hellenic Telecommunications Company SA,8
+AS9500 Vodafone NZ Ltd.,8
+AS27865 Tecnologia WorkOut S.A.,8
+AS135225 SMART NET INDIA PVT LTD,8
+AS19531 NODESDIRECT,8
+AS3786 LG DACOM Corporation,8
+AS7684 SAKURA Internet Inc.,8
+AS134325 JETSPOTNETWORKS PVT LTD,7
 AS266284 ADAO DA SILVA NORTE-TEL TELECOMUNICACOES EIRELI,7
-AS25229 Volia,7
-AS210079 EuroByte LLC,7
+AS5607 Sky UK Limited,7
 AS42555 OPTICCOM- BULGARIA Ltd.,7
+AS135834 Multicraft Digital Technologies Private Limited,7
+AS10318 Telecom Argentina S.A.,7
+AS268072 FRANCISCO NICOLAS FUENTES ESPINOSA TELECOMUNICACOE,7
+AS206728 Media Land LLC,7
+AS25054 ACO Computerservice GmbH,7
 AS39651 Tele2 SWIPnet,7
 AS45916 Gujarat Telelink Pvt Ltd,7
-AS15704 Xtra Telecom S.A.,7
-AS6939 HURRICANE,7
+AS42961 Mobile Telecommunications Company,7
+AS2116 Globalconnect As,7
+AS31724 Svyazist LLC,7
+AS14576 HOSTING-SOLUTIONS,7
+AS11572 SS-ATL,7
 AS10697 Interlink S.R.L.,7
 AS135777 Shreenortheast Connect And Services Pvt Ltd,7
-AS40788 START,7
-AS268072 FRANCISCO NICOLAS FUENTES ESPINOSA TELECOMUNICACOE,7
-"AS58593 Shanghai Blue Cloud Technology Co.,Ltd",7
-AS12400 Partner Communications Ltd.,7
-AS31724 Svyazist LLC,7
-AS17799 asn for Liaoning Provincial Net of CT,7
-AS267641 DK Telecom,7
-AS134325 JETSPOTNETWORKS PVT LTD,7
-"AS135161 GMO-Z com NetDesign Holdings Co., Ltd.",7
-AS263509 Turbovip Telecom Ltda,7
-AS2116 Globalconnect As,7
-AS38197 Sun Network (Hong Kong) Limited - HongKong Backbone,7
-AS10318 Telecom Argentina S.A.,7
-AS42961 Mobile Telecommunications Company,7
-AS5617 Orange Polska Spolka Akcyjna,7
-AS132535 ANTARIKSH BROADBAND AND WIRELESS SOLUTION PRIVATE LIMITED,7
-AS5607 Sky UK Limited,7
-AS25054 ACO Computerservice GmbH,7
-AS28812 PJSC Bashinformsvyaz,7
 AS14080 Telmex Colombia S.A.,7
-AS135834 Multicraft Digital Technologies Private Limited,7
+AS25229 Volia,7
+"AS135161 GMO-Z com NetDesign Holdings Co., Ltd.",7
+AS40788 START,7
+AS267641 DK Telecom,7
+AS28812 PJSC Bashinformsvyaz,7
+AS210079 EuroByte LLC,7
+AS5617 Orange Polska Spolka Akcyjna,7
+AS38197 Sun Network (Hong Kong) Limited - HongKong Backbone,7
 AS17839 LG HelloVision Corp.,7
-AS11572 SS-ATL,7
-AS5645 TEKSAVVY,6
-AS12479 Orange Espagne SA,6
-AS135214 Spider Broadband Pvt. Ltd.,6
-AS269264 AJNS PROVEDOR DE INTENRET LTDA,6
-AS45769 D-Vois Broadband Pvt Ltd,6
-AS19108 SUDDENLINK-COMMUNICATIONS,6
-AS18207 YOU Broadband & Cable India Ltd.,6
-AS52363 Jumpnet Soluciones de Internet S.R.L.,6
-AS262254 DDOS-GUARD CORP.,6
-AS55947 Bangalore Broadband Network Pvt Ltd,6
-AS266229 lins. net telecom ltda-me,6
-AS52469 Offshore Racks S.A,6
-AS266531 GIGALINK INFORMATICA E INTERNET LTDA ME,6
-"AS131207 SINET, Cambodia's specialist Internet and Telecom Service Provider.",6
-AS852 ASN852,6
-AS41661 JSC ER-Telecom Holding,6
-AS8473 Bahnhof AB,6
-AS8167 Brasil Telecom S/A - Filial Distrito Federal,6
-AS267939 W M S FONTES INFORMATICA - LTDA,6
-AS24955 OJSC Ufanet,6
-AS135817 Esto Broadband Private Limited,6
-AS60695 NETRONIK sp. z o.o.,6
-AS4764 Aussie Broadband,6
-AS53131 GB TECNOLOGIA E MONITORAMENTO EIRELI,6
-AS19182 TELEFONICA BRASIL S.A,6
-AS45184 Den Digital Entertainment Pvt. Ltd. AS ISP india,6
-AS6866 Cyprus Telecommunications Authority,6
-AS210125 PRIAM NET Sh.p.k.,6
-AS24164 UNION BROADBAND NETWORK,6
-AS11776 ATLANTICBB-JOHNSTOWN,6
-AS22047 VTR BANDA ANCHA S.A.,6
-AS12714 Net By Net Holding LLC,6
-AS29066 Host Europe GmbH,6
-AS42244 Hosting Operator eServer.ru Ltd.,6
-AS201224 Tikhomirov Evgeny Viktorovich,6
-AS26484 IKGUL-26484,6
-AS268225 MegaNet Telecom,6
+AS132535 ANTARIKSH BROADBAND AND WIRELESS SOLUTION PRIVATE LIMITED,7
+AS263509 Turbovip Telecom Ltda,7
+AS15704 Xtra Telecom S.A.,7
+AS12400 Partner Communications Ltd.,7
+AS17799 asn for Liaoning Provincial Net of CT,7
+"AS58593 Shanghai Blue Cloud Technology Co.,Ltd",7
+AS6939 HURRICANE,7
 AS18229 CtrlS Datacenters Ltd.,6
-AS15975 Hadara,6
-AS134269 Net Solutions,6
+AS55947 Bangalore Broadband Network Pvt Ltd,6
+AS8167 Brasil Telecom S/A - Filial Distrito Federal,6
+AS6866 Cyprus Telecommunications Authority,6
+AS8473 Bahnhof AB,6
+AS22047 VTR BANDA ANCHA S.A.,6
+AS12479 Orange Espagne SA,6
+AS29066 Host Europe GmbH,6
+AS267939 W M S FONTES INFORMATICA - LTDA,6
+AS266229 lins. net telecom ltda-me,6
+AS45769 D-Vois Broadband Pvt Ltd,6
+AS135817 Esto Broadband Private Limited,6
+AS52469 Offshore Racks S.A,6
+"AS131207 SINET, Cambodia's specialist Internet and Telecom Service Provider.",6
 AS9299 Philippine Long Distance Telephone Company,6
+AS268225 MegaNet Telecom,6
+AS26484 IKGUL-26484,6
 AS202984 Chernyshov Aleksandr Aleksandrovich,6
+AS24955 OJSC Ufanet,6
+AS45184 Den Digital Entertainment Pvt. Ltd. AS ISP india,6
 AS17676 Softbank BB Corp.,6
-AS8369 Intersvyaz-2 JSC,5
-AS263955 ANTONIO FERNANDO DE SOUZA CASAS - ME,5
-AS9269 Hong Kong Broadband Network Ltd.,5
-AS136719 Anushree Digital Network Pvt Ltd,5
-AS21501 Host Europe GmbH,5
-AS34959 Kviktel LLC,5
-AS52766 Printnet telecomunicacoes,5
-AS138296 Juweriyah Networks Private Limited,5
-AS41853 Limited Liability Company NTCOM,5
-"AS49352 Domain names registrar REG.RU, Ltd",5
-AS52426 I-SUR WISP S.R.L.,5
-AS16232 Telecom Italia,5
-AS20845 DIGI Tavkozlesi es Szolgaltato Kft.,5
-AS263500 Star Telecom S/A,5
-AS137872 China Mobile Hong Kong Company Limited,5
-AS137615 Aonedpn Communications Pvt. Ltd.,5
+AS201224 Tikhomirov Evgeny Viktorovich,6
+AS210125 PRIAM NET Sh.p.k.,6
+AS19108 SUDDENLINK-COMMUNICATIONS,6
+AS19182 TELEFONICA BRASIL S.A,6
+AS135214 Spider Broadband Pvt. Ltd.,6
+AS53131 GB TECNOLOGIA E MONITORAMENTO EIRELI,6
+AS41661 JSC ER-Telecom Holding,6
+AS5645 TEKSAVVY,6
+AS134269 Net Solutions,6
+AS11776 ATLANTICBB-JOHNSTOWN,6
+AS269264 AJNS PROVEDOR DE INTENRET LTDA,6
+AS18207 YOU Broadband & Cable India Ltd.,6
+AS60695 NETRONIK sp. z o.o.,6
+AS262254 DDOS-GUARD CORP.,6
+AS12714 Net By Net Holding LLC,6
+AS4764 Aussie Broadband,6
+AS266531 GIGALINK INFORMATICA E INTERNET LTDA ME,6
+AS15975 Hadara,6
+AS42244 Hosting Operator eServer.ru Ltd.,6
+AS52363 Jumpnet Soluciones de Internet S.R.L.,6
+AS852 ASN852,6
+AS24164 UNION BROADBAND NETWORK,6
 "AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",5
-AS263469 J P de Souza Telecomunicacoes EPP,5
-AS264182 Silicom Planejamento Tec. e Informatica Ltda,5
-AS267223 INFORTECH TELECOMUNICACAO EIRELI - ME,5
-AS11351 TWC-11351-NORTHEAST,5
-AS24163 UNION BROADBAND NETWORK,5
-AS135789 Denet Connect Services Pvt Ltd,5
-AS6327 SHAW,5
-AS131285 CHINATELECOM Hubei province Shengji 5G network,5
-AS262822 WE RADIO COMUNICACOES LTDA EPP,5
-AS1659 Taiwan Academic Network (TANet) Information Center,5
-AS47524 Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.,5
-AS9845 LG HelloVision Corp.,5
-AS137667 Super Sonic Internet Pvt Ltd,5
-AS39074 Sepanta Communication Development Co. Ltd,5
-AS9830 SWIFT ONLINE BORDER AS,5
-AS36994 Vodacom-VB,5
-AS47956 XFone 018 Ltd,5
+AS138296 Juweriyah Networks Private Limited,5
 AS64439 IT Outsourcing LLC,5
-AS5432 Proximus NV,5
-AS136665 Ell Innovations Pvt Ltd,5
-AS11492 CABLEONE,5
-"AS25406 Splius, Uab",5
-AS12353 Vodafone Portugal - Communicacoes Pessoais S.A.,5
-AS22709 NSTELCO,5
-AS9123 TimeWeb Ltd.,5
-AS3339 Tele Elda SA,5
-"AS131597 New Changhua Digital Cable TV CO,.Ltd",5
-AS2119 Telenor Norge AS,5
+AS264182 Silicom Planejamento Tec. e Informatica Ltda,5
 AS12552 IP-Only Networks AB,5
-AS6877 PJSC Ukrtelecom,4
+"AS25406 Splius, Uab",5
+AS136665 Ell Innovations Pvt Ltd,5
+AS3339 Tele Elda SA,5
+AS47524 Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.,5
+AS34959 Kviktel LLC,5
+AS16232 Telecom Italia,5
+AS22709 NSTELCO,5
+AS5432 Proximus NV,5
+AS137615 Aonedpn Communications Pvt. Ltd.,5
+AS136719 Anushree Digital Network Pvt Ltd,5
+AS263500 Star Telecom S/A,5
+"AS131597 New Changhua Digital Cable TV CO,.Ltd",5
+AS52426 I-SUR WISP S.R.L.,5
+AS12353 Vodafone Portugal - Communicacoes Pessoais S.A.,5
+AS11351 TWC-11351-NORTHEAST,5
+AS262822 WE RADIO COMUNICACOES LTDA EPP,5
+AS9830 SWIFT ONLINE BORDER AS,5
+AS47956 XFone 018 Ltd,5
+AS39074 Sepanta Communication Development Co. Ltd,5
+AS24163 UNION BROADBAND NETWORK,5
+AS41853 Limited Liability Company NTCOM,5
+AS20845 DIGI Tavkozlesi es Szolgaltato Kft.,5
+AS21501 Host Europe GmbH,5
+AS52766 Printnet telecomunicacoes,5
+AS137667 Super Sonic Internet Pvt Ltd,5
+AS1659 Taiwan Academic Network (TANet) Information Center,5
+"AS49352 Domain names registrar REG.RU, Ltd",5
+AS137872 China Mobile Hong Kong Company Limited,5
+AS8369 Intersvyaz-2 JSC,5
+AS9845 LG HelloVision Corp.,5
+AS11492 CABLEONE,5
+AS6327 SHAW,5
+AS135789 Denet Connect Services Pvt Ltd,5
+AS263469 J P de Souza Telecomunicacoes EPP,5
+AS36994 Vodacom-VB,5
+AS9269 Hong Kong Broadband Network Ltd.,5
+AS263955 ANTONIO FERNANDO DE SOUZA CASAS - ME,5
+AS9123 TimeWeb Ltd.,5
+AS2119 Telenor Norge AS,5
+AS267223 INFORTECH TELECOMUNICACAO EIRELI - ME,5
+AS131285 CHINATELECOM Hubei province Shengji 5G network,5
+AS138730 Sns Internet Services Private Limited,4
+AS18313 LG HelloVision Corp.,4
+AS17577 LG HelloVision Corp.,4
+AS200436 Patron Technology Persia Ltd,4
+AS60455 abc Ucranian-franch Joint Venture,4
+AS45595 Pakistan Telecom Company Limited,4
+"AS17849 Tbroad Ginam Broadcating Co., Ltd.",4
+AS23860 Alliance Broadband Services Pvt. Ltd.,4
+AS33070 RMH-14,4
+AS24936 LLC Management Company Svyaz,4
+AS200698 Globalhost d.o.o.,4
+AS205110 Next-tv Shpk,4
+AS262899 RT NICOLAU TELECOMUNICACAO - ME,4
+AS131591 Ambit Microsystem Corporation,4
+AS45820 Tata Teleservices ISP AS,4
 AS267251 TELEFONARNET TELECOMUNICACOES,4
-AS25019 Saudi Telecom Company JSC,4
-AS23033 WOW,4
+AS6079 RCN-AS,4
 AS49037 Mikhail Mayorov,4
-AS137093 Arjun Infotech,4
+AS59711 HZ Hosting Ltd,4
+AS43205 Bulsatcom EAD,4
+AS52173 Sia Nano IT,4
+AS56783 ConnectIT Marcin Hajka,4
+AS6877 PJSC Ukrtelecom,4
+AS18390 Spin Internet Service,4
+AS17421 Mobile Business Group,4
+AS35346 Sc Itns.net Srl,4
+AS134905 iGEN Networks Pvt Ltd,4
+AS133296 Web Werks India Pvt. Ltd.,4
+AS53755 IOFLOOD,4
+"AS41877 Railway Telecom, Ltd",4
+AS22646 HARCOM1,4
+AS9304 HGC Global Communications Limited,4
+AS21351 Canal + Telecom SAS,4
+"AS21211 Penkiu kontinentu komunikaciju centras, Ltd.",4
+AS135718 DISHAWAVES INFONET PVT. LTD,4
+AS140317 CHINATELECOM Guangdong province Shaoguan 5G network,4
+AS202940 ITC NG ltd,4
+AS23033 WOW,4
+AS13306 Unics EOOD,4
+AS200970 Riepert Informationstechnologie OG,4
+AS21559 OSNET,4
+"AS6503 Axtel, S.A.B. de C.V.",4
+AS9441 Next Online Limited.,4
+AS269335 SUPORT TELECOM LTDA,4
+AS45960 YTL COMMUNICATIONS SDN BHD,4
+AS138800 Peer Networks Private Limited,4
+AS6799 OTEnet S.A.,4
+AS197328 Istanbuldc Veri Merkezi Ltd Sti,4
+AS18875 QZN-ASN-001,4
+AS51375 Stc Bahrain B.s.c Closed,4
+AS25019 Saudi Telecom Company JSC,4
+AS266298 MWA INTERNET. COM LTDA - ME,4
+AS29238 Nisatel LTD,4
+AS38457 Honesty Net Solution (I) Pvt Ltd,4
+AS8612 Tiscali SpA,4
 AS17621 China Unicom Shanghai network,4
+AS2715 Fundacao Carlos Chagas Filho de Amparo a Pesquisa,4
+AS9676 SaveCom Internation Inc.,4
+AS268662 POWER FIBRA TELECOM,4
+AS38553 Internet Service Provider and Data Center,4
+AS15557 SFR SA,4
+AS135735 Vilite Multimedia Private Limited,4
+AS267495 Brasil Central Telecomunicacao,4
+AS59729 ITL LLC,4
 AS24139 Huashu media&Network Limited,4
 AS263487 Giganet Comunicacoes Multimidia Ltda,4
-"AS6503 Axtel, S.A.B. de C.V.",4
-AS135735 Vilite Multimedia Private Limited,4
-AS24936 LLC Management Company Svyaz,4
-AS131591 Ambit Microsystem Corporation,4
-AS134905 iGEN Networks Pvt Ltd,4
-"AS61272 Informacines sistemos ir technologijos, UAB",4
-AS136654 Krishna Broadband,4
-AS58967 RSBS ONLINE SERVICES PRIVATE LIMITED,4
-"AS21283 A1 Slovenija telekomunikacijske storitve,d.d.",4
-AS9770 LG HelloVision Corp.,4
-AS200436 Patron Technology Persia Ltd,4
-AS21559 OSNET,4
-AS9304 HGC Global Communications Limited,4
-AS266298 MWA INTERNET. COM LTDA - ME,4
-AS200970 Riepert Informationstechnologie OG,4
-AS60455 abc Ucranian-franch Joint Venture,4
-AS53755 IOFLOOD,4
-AS59711 HZ Hosting Ltd,4
-AS18313 LG HelloVision Corp.,4
-AS6799 OTEnet S.A.,4
-AS38457 Honesty Net Solution (I) Pvt Ltd,4
-AS200698 Globalhost d.o.o.,4
-AS43205 Bulsatcom EAD,4
-AS17577 LG HelloVision Corp.,4
-AS15435 DELTA Fiber Nederland B.V.,4
-AS51375 Stc Bahrain B.s.c Closed,4
-AS268662 POWER FIBRA TELECOM,4
-AS11426 TWC-11426-CAROLINAS,4
-AS45820 Tata Teleservices ISP AS,4
-AS56783 ConnectIT Marcin Hajka,4
-AS35346 Sc Itns.net Srl,4
-AS22646 HARCOM1,4
-AS45595 Pakistan Telecom Company Limited,4
-AS59729 ITL LLC,4
-"AS17849 Tbroad Ginam Broadcating Co., Ltd.",4
-AS2715 Fundacao Carlos Chagas Filho de Amparo a Pesquisa,4
-AS17421 Mobile Business Group,4
-AS202940 ITC NG ltd,4
-AS138800 Peer Networks Private Limited,4
-AS135718 DISHAWAVES INFONET PVT. LTD,4
-AS205110 Next-tv Shpk,4
-AS18875 QZN-ASN-001,4
-AS139728 Planet Three Communication,4
-"AS41877 Railway Telecom, Ltd",4
-AS45960 YTL COMMUNICATIONS SDN BHD,4
-AS38553 Internet Service Provider and Data Center,4
-AS5769 VIDEOTRON,4
-"AS21211 Penkiu kontinentu komunikaciju centras, Ltd.",4
-AS13306 Unics EOOD,4
-AS269335 SUPORT TELECOM LTDA,4
-AS133296 Web Werks India Pvt. Ltd.,4
-AS135782 Nyak Technologies And Teleservices Pvt Ltd,4
-AS197328 Istanbuldc Veri Merkezi Ltd Sti,4
-AS8612 Tiscali SpA,4
-AS262899 RT NICOLAU TELECOMUNICACAO - ME,4
-AS140317 CHINATELECOM Guangdong province Shaoguan 5G network,4
-AS52173 Sia Nano IT,4
-AS9676 SaveCom Internation Inc.,4
-AS29238 Nisatel LTD,4
-AS21351 Canal + Telecom SAS,4
-AS18390 Spin Internet Service,4
-AS15557 SFR SA,4
-AS6079 RCN-AS,4
-AS5438 Agence Tunisienne d'Internet,4
-AS267495 Brasil Central Telecomunicacao,4
+AS137093 Arjun Infotech,4
 AS264490 ANDRA TELECOM,4
-AS23860 Alliance Broadband Services Pvt. Ltd.,4
-AS138730 Sns Internet Services Private Limited,4
-AS33070 RMH-14,4
-AS9441 Next Online Limited.,4
-AS25274 Naracom Kft.,3
-AS24444 Shandong Mobile Communication Company Limited,3
-AS31214 TIS Dialog LLC,3
-AS11232 MIDCO-NET,3
-AS8014 BATELNET,3
-AS138743 Dolphin Logic System Private Limited,3
-AS137655 Angel Air Network Solutions Pvt. Ltd.,3
-AS134004 Foxtel Telecommunications Pvt. Ltd.,3
-AS61047 KALANDA,3
-AS12133 LISCO,3
-AS50115 TOV Lekol,3
-AS61317 Digital Energy Technologies Ltd.,3
-AS38283 CHINANET SiChuan Telecom Internet Data Center,3
-AS36914 Kenya Education Network,3
-AS45194 Syscon Infoway Pvt. Ltd.,3
-AS9506 Singtel Fibre Broadband,3
-AS61888 GFT COMERCIO DE TELEFONIA E COMUNICACAO LTDA,3
-AS45543 SaiGon Tourist cable Televition Company,3
-AS48309 Ariana Gostar Spadana (PJSC),3
-AS3209 Vodafone GmbH,3
-AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP,3
-AS132879 Rajabhat Mahasarakham University,3
-AS41822 MTS PJSC,3
-AS19711 SWAZINET,3
-AS37069 MOBINIL,3
-AS3737 AS-PTD,3
-AS8448 Telenor Hungary plc,3
-AS265059 TV CABO SAO PAULO LTDA,3
-AS52768 ALSOL Provedor de Internet Ltda.,3
-AS201206 Droptop GmbH,3
-AS23888 National Telecommunication Corporation HQ,3
-AS135850 Net Sathi Networks Pvt. Ltd,3
-AS134042 MAHA Mediacom LLP,3
-AS200845 Avatel & Wikiker Telecom S.L.,3
-AS8972 Host Europe GmbH,3
-AS52228 Cable Tica,3
-AS27887 WIND Telecom S.A.,3
-AS12578 SIA Tet,3
-AS132568 Infinet Communictions,3
+"AS21283 A1 Slovenija telekomunikacijske storitve,d.d.",4
+AS5769 VIDEOTRON,4
+"AS61272 Informacines sistemos ir technologijos, UAB",4
+AS9770 LG HelloVision Corp.,4
+AS136654 Krishna Broadband,4
+AS15435 DELTA Fiber Nederland B.V.,4
+AS5438 Agence Tunisienne d'Internet,4
+AS58967 RSBS ONLINE SERVICES PRIVATE LIMITED,4
+AS139728 Planet Three Communication,4
+AS135782 Nyak Technologies And Teleservices Pvt Ltd,4
+AS11426 TWC-11426-CAROLINAS,4
 AS198102 Xstream Srl,3
-AS56040 China Mobile communications corporation,3
-"AS2860 Nos Comunicacoes, S.A.",3
-AS37611 Afrihost,3
-AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV,3
-AS50013 Multicomp Ltd.,3
-AS35699 Adamo Telecom Iberia S.A.,3
+AS48309 Ariana Gostar Spadana (PJSC),3
+AS23888 National Telecommunication Corporation HQ,3
+AS134004 Foxtel Telecommunications Pvt. Ltd.,3
+AS262506 ASERNET TELECOM,3
+AS136946 Weebo networks Pvt Ltd,3
+AS138260 Shirsty Internet Services Pvt Ltd,3
+AS25274 Naracom Kft.,3
+AS11232 MIDCO-NET,3
+AS32097 WII,3
+AS50115 TOV Lekol,3
+AS31252 StarNet Solutii SRL,3
+"AS45582 VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA",3
 AS23201 Telecel S.A.,3
-AS60567 DataClub S.A.,3
-AS45057 CHINA TIETONG SHANGHAI,3
+AS23858 xTom,3
+AS21017 Rostelecom,3
+AS56040 China Mobile communications corporation,3
+AS8448 Telenor Hungary plc,3
+AS19711 SWAZINET,3
+AS35699 Adamo Telecom Iberia S.A.,3
+AS45543 SaiGon Tourist cable Televition Company,3
+AS57971 Mediasvyaz Ltd.,3
+AS55577 Atria Convergence Technologies pvt ltd,3
+AS63473 HOSTHATCH,3
+AS133684 Sun Broadband And Data Services Pvt Ltd,3
 AS17854 Tbroad jeonju broadcast,3
+AS38283 CHINANET SiChuan Telecom Internet Data Center,3
 AS9038 Batelco Jordan,3
+AS201206 Droptop GmbH,3
+AS36914 Kenya Education Network,3
+AS134908 IKON BROADBAND PRIVATE LIMITED,3
+AS9105 TalkTalk,3
+AS2519 ARTERIA Networks Corporation,3
+AS37611 Afrihost,3
+AS55720 Gigabit Hosting Sdn Bhd,3
+AS57271 BitWeb LLC,3
+AS27887 WIND Telecom S.A.,3
+AS45057 CHINA TIETONG SHANGHAI,3
+AS25144 Telekomunikacije Republike Srpske akcionarsko drustvo Banja Luka,3
+AS52768 ALSOL Provedor de Internet Ltda.,3
+AS8972 Host Europe GmbH,3
+AS134042 MAHA Mediacom LLP,3
+AS45194 Syscon Infoway Pvt. Ltd.,3
+AS45302 PT DES Teknologi Informasi,3
+AS9506 Singtel Fibre Broadband,3
 AS39308 Andishe Sabz Khazar Co. P.j.s.,3
+AS50013 Multicomp Ltd.,3
+AS12578 SIA Tet,3
+AS64050 BGPNET Global ASN,3
+AS12357 Vodafone Spain,3
+AS138743 Dolphin Logic System Private Limited,3
+AS59504 Vpsville LLC,3
+AS134599 Digital Dot Net (DDN),3
+AS7738 Telemar Norte Leste S.A.,3
+AS200845 Avatel & Wikiker Telecom S.L.,3
+AS50113 NTX Technologies s.r.o.,3
+AS3737 AS-PTD,3
 AS20057 ATT-MOBILITY-LLC-AS20057,3
-AS265409 RNET SERVICOS DE INTERNET LTDA,3
+AS41822 MTS PJSC,3
+AS61888 GFT COMERCIO DE TELEFONIA E COMUNICACAO LTDA,3
+AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV,3
+AS52228 Cable Tica,3
+AS5391 Hrvatski Telekom d.d.,3
+AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP,3
+AS269055 Otacilio Gomes De Morais EIRELI,3
+AS37069 MOBINIL,3
+AS8400 TELEKOM SRBIJA a.d.,3
 AS12322 Free SAS,3
 AS266989 ETH ENTERPRISE TECNOLOGIA LTDA,3
-"AS45582 VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA",3
-AS55720 Gigabit Hosting Sdn Bhd,3
-AS134908 IKON BROADBAND PRIVATE LIMITED,3
-AS64050 BGPNET Global ASN,3
-AS136946 Weebo networks Pvt Ltd,3
-AS12357 Vodafone Spain,3
-AS8400 TELEKOM SRBIJA a.d.,3
-AS134341 jdm broadband services pvt ltd,3
-AS134928 Spiderlink Networks Pvt Ltd,3
-AS59504 Vpsville LLC,3
-AS50113 NTX Technologies s.r.o.,3
-AS267413 C B DA SILVA TELECOMUNICACOES - ME,3
-AS46606 UNIFIEDLAYER-AS-1,3
-AS23858 xTom,3
-AS137117 AIRWAVES INTERNET,3
-AS28885 Oman Telecommunications Company (S.A.O.G),3
-AS57971 Mediasvyaz Ltd.,3
-AS8953 Orange Romania S.A.,3
-AS55577 Atria Convergence Technologies pvt ltd,3
-AS7738 Telemar Norte Leste S.A.,3
-AS133684 Sun Broadband And Data Services Pvt Ltd,3
-AS132960 Mukand Infotel Pvt Ltd.,3
-AS138754 Kerala Vision Broad Band Private Limited,3
-AS21017 Rostelecom,3
-AS2519 ARTERIA Networks Corporation,3
-AS32097 WII,3
-AS262506 ASERNET TELECOM,3
-AS31252 StarNet Solutii SRL,3
-AS9105 TalkTalk,3
-AS263099 STIW Sistema de Telecom. Inf e Wireless LTDA,3
-AS45302 PT DES Teknologi Informasi,3
-AS134021 Airgenie Communications Private Limited,3
-AS12735 TurkNet Iletisim Hizmetleri A.S.,3
 AS29518 Bredband2 AB,3
-AS269055 Otacilio Gomes De Morais EIRELI,3
-AS5391 Hrvatski Telekom d.d.,3
-AS63473 HOSTHATCH,3
+AS134341 jdm broadband services pvt ltd,3
+AS263099 STIW Sistema de Telecom. Inf e Wireless LTDA,3
+AS265409 RNET SERVICOS DE INTERNET LTDA,3
+AS132960 Mukand Infotel Pvt Ltd.,3
+AS132879 Rajabhat Mahasarakham University,3
+AS134928 Spiderlink Networks Pvt Ltd,3
+AS137655 Angel Air Network Solutions Pvt. Ltd.,3
+AS31214 TIS Dialog LLC,3
+"AS2860 Nos Comunicacoes, S.A.",3
+AS24444 Shandong Mobile Communication Company Limited,3
 "AS132203 Tencent Building, Kejizhongyi Avenue",3
-AS57271 BitWeb LLC,3
-AS138260 Shirsty Internet Services Pvt Ltd,3
-AS134599 Digital Dot Net (DDN),3
-AS25144 Telekomunikacije Republike Srpske akcionarsko drustvo Banja Luka,3
-AS2510 FUJITSU LIMITED,2
-AS11272 TELEPAK-NETWORKS-INC,2
-AS134875 ZPOINT KOTA,2
-AS137153 Optisky Fibernet Private Limited,2
-AS137635 J.sky Media Pvt.ltd.,2
-AS39501 Parvaresh Dadeha Co. Private Joint Stock,2
-AS17622 China Unicom Guangzhou network,2
-AS262401 GSTN DO BRASIL LTDA,2
-AS55699 PT. Cemerlang Multimedia,2
-AS269318 Silva Poltronieri e Poltronieri LTDA,2
-AS50923 Metroset,2
-AS44034 Hi3G Access AB,2
-AS137143 Minnal Digital Network Private Limited,2
-AS137132 High Speed Broadband,2
-AS12301 Invitech ICT Services Kft.,2
-AS135808 Fiberzone Communications Pvt Ltd,2
-AS23314 ORLANDOTELCO,2
-AS51132 Arkaden Konsult AB,2
-AS31012 A1 Hrvatska d.o.o.,2
-AS42334 Broadband Plus S.a.l.,2
-AS37430 vdctelecom,2
-AS52786 BrByte Telecom,2
-AS263634 TACNET TELECOM,2
-AS31863 DACEN-2,2
-AS262669 KONNET TELECOMUNICACOES LTDA - EPP,2
-AS134032 INFONET COMM ENTERPRISES,2
-AS6536 CITYNET,2
-AS48861 Apaga Technologies CJSC,2
-AS266546 TWF NET PROVEDOR DE INTERNET EIRELI- ME,2
-AS43434 Contact TV Inc.,2
-AS51731 GTT a.s.,2
-AS56030 Voyager Internet Ltd.,2
-AS25513 PJSC Moscow city telephone network,2
-AS11081 United Telecommunication Services (UTS),2
-AS267188 Net Info Informatica Ltda,2
-AS134933 Webline Broadband Pvt Ltd,2
-AS6848 Telenet BVBA,2
-AS197049 Internet Serwis Wojciech Bandurowski,2
-AS10620 Telmex Colombia S.A.,2
-AS266214 UTIL PROVEDOR DE INTERNET LTDA - ME,2
-AS46261 QUICKPACKET,2
-AS11816 SetarNet,2
-AS269705 Jms Telecom,2
-AS35916 MULTA-ASN1,2
-AS4755 TATA Communications formerly VSNL is Leading ISP,2
-AS49749 VostokMediaSvyaz Ltd.,2
-AS38845 Fu Jen Catholic University,2
-AS134884 ARICHWAL IT SERVICES PRIVATE LIMITED,2
-"AS12334 R Cable y Telecable Telecomunicaciones, S.A.U.",2
-AS4771 Spark New Zealand Trading Ltd.,2
-AS22489 ZCOLO-SAN01,2
-AS270366 Jean Franck Ximenes,2
-AS210228 Web Hosted Group Ltd,2
-AS42863 Servicos De Comunicacoes E Multimedia S.A.,2
-AS269237 CarandaiNet Servicos de Internet Ltda.,2
-AS49821 Elektrika Ltd,2
-AS12586 GHOSTnet GmbH,2
-AS135171 Balaji Infra Ray Private Limited,2
-AS30689 FLOW-NET,2
-AS267033 serrasul telecom ltda,2
-AS60203 Innovaciones Tecnlogicas del Sur S.L.,2
-AS269587 OMEGA PROVEDOR E SERVICOS DE INTERNET EIRELI-ME,2
-AS5394 UNIDATA S.p.A.,2
-"AS131627 Peicity Digital Cable Television., LTD",2
-"AS132100 Myanmar Speed Net Co.,Ltd",2
-AS139735 PACE IT,2
-AS7623 Gyeongbuk Cable TV,2
-AS135201 siddhbali infotech pvt ltd.,2
-AS64398 Nxtservers Srl,2
-AS9694 Seokyung Cable Television Co.. Ltd.,2
+AS46606 UNIFIEDLAYER-AS-1,3
+AS265059 TV CABO SAO PAULO LTDA,3
+AS3209 Vodafone GmbH,3
+AS61047 KALANDA,3
+AS60567 DataClub S.A.,3
+AS28885 Oman Telecommunications Company (S.A.O.G),3
+AS8953 Orange Romania S.A.,3
+AS61317 Digital Energy Technologies Ltd.,3
+AS12735 TurkNet Iletisim Hizmetleri A.S.,3
+AS134021 Airgenie Communications Private Limited,3
+AS137117 AIRWAVES INTERNET,3
+AS267413 C B DA SILVA TELECOMUNICACOES - ME,3
+AS135850 Net Sathi Networks Pvt. Ltd,3
+AS132568 Infinet Communictions,3
+AS138754 Kerala Vision Broad Band Private Limited,3
+AS8014 BATELNET,3
+AS12133 LISCO,3
 AS23404 RITTERNET,2
-AS9781 GREEN CABLE TELEVISION STATION,2
-AS47995 Apple Technologies LLC,2
-AS52686 F.J.FANTINI AMPARO ME,2
-AS135253 Mft Internet Private Limited,2
-AS22927 Telefonica de Argentina,2
-AS27964 RSONet,2
-AS42560 Telemach d.o.o. Sarajevo,2
-AS44395 Ucom LLC,2
-AS35706 Net at Once Sweden AB,2
-AS9762 HYUNDAI COMMUNICATIONS NETWORK,2
-AS43513 Sia Nano IT,2
-AS266313 LESTETRONICS ME,2
-AS15774 Joint Stock Company TransTeleCom,2
-AS138293 Spacetrade Internet Pvt Ltd,2
-AS10036 DLIVE,2
-AS12297 VEON Armenia CJSC,2
-AS133776 Quanzhou,2
-AS9145 EWE-Tel GmbH,2
-AS4804 Microplex PTY LTD,2
-AS13174 MTS PJSC,2
-AS1241 Forthnet,2
-AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.,2
-AS17857 T Broad,2
-AS133854 X-press Technologies Limited.,2
-AS268625 NETFAST TELECOMUNICACOES E MULTIMIDIA LTDA,2
-AS140166 Rythym Broadband Pvt Ltd,2
-AS267005 WEB LINK DIGITAL EIRELI - ME,2
-AS59162 U.P. COMMUNICATION SERVICES PVT LTD,2
-AS199096 CJSC Digital network Logos,2
+AS50463 Triple C Cloud Computing Ltd.,2
 AS17511 OPTAGE Inc.,2
-AS21826 Corporacion Telemic C.A.,2
+AS52786 BrByte Telecom,2
+AS133854 X-press Technologies Limited.,2
 AS42298 Ooredoo Q.S.C.,2
-AS50477 Svyaz-Energo Ltd.,2
-AS204997 NTX Technologies s.r.o.,2
-"AS14178 Megacable Comunicaciones de Mexico, S.A. de C.V.",2
-AS34602 Megasvyaz LLC,2
+AS267188 Net Info Informatica Ltda,2
+AS22927 Telefonica de Argentina,2
 AS60721 Bursabil Teknoloji A.S.,2
-AS34577 SKAT TV Ltd.,2
-AS267647 RODOLFO TREVIZAM FERMINO DE OLIVEIRA - EPP,2
-AS134316 World Star Communication,2
-"AS18429 Extra-Lan Technologies Co., LTD",2
-AS15419 SC Lithuanian Radio and TV Center,2
-AS395092 SHOCK-1,2
-AS135815 Netrexo Communications Private Limited,2
-"AS2514 NTT PC Communications, Inc.",2
 AS8402 PVimpelCom,2
+AS8581 University Of Ioannina,2
+AS134032 INFONET COMM ENTERPRISES,2
+AS24835 RAYA Telecom - Egypt,2
+AS35612 EOLO S.p.A.,2
+AS51407 Mada ALArab LTD,2
+AS36925 ASMedi,2
+AS4804 Microplex PTY LTD,2
+AS9781 GREEN CABLE TELEVISION STATION,2
+AS25620 COTAS LTDA.,2
+AS30779 TRK Cable TV LLC,2
+AS30936 RENET COM Ltd.,2
+AS20485 Joint Stock Company TransTeleCom,2
+AS42863 Servicos De Comunicacoes E Multimedia S.A.,2
+AS44395 Ucom LLC,2
+AS398019 DYNU,2
+AS199096 CJSC Digital network Logos,2
+AS395092 SHOCK-1,2
+AS270828 FULL NET,2
+AS4755 TATA Communications formerly VSNL is Leading ISP,2
+AS135171 Balaji Infra Ray Private Limited,2
+AS135201 siddhbali infotech pvt ltd.,2
+AS16322 Pars Online PJS,2
+AS270911 J. S. DE CASTRO BANDEIRA FORTE,2
+AS46261 QUICKPACKET,2
+AS139735 PACE IT,2
+AS37430 vdctelecom,2
+AS11272 TELEPAK-NETWORKS-INC,2
+AS60203 Innovaciones Tecnlogicas del Sur S.L.,2
+AS6536 CITYNET,2
+AS270366 Jean Franck Ximenes,2
+AS10620 Telmex Colombia S.A.,2
+AS13174 MTS PJSC,2
+AS64398 Nxtservers Srl,2
+AS263006 Interone Telecom Ltda,2
+AS2497 Internet Initiative Japan Inc.,2
+AS34602 Megasvyaz LLC,2
+AS43434 Contact TV Inc.,2
+AS7623 Gyeongbuk Cable TV,2
+AS7782 ALSK-7782,2
+AS135253 Mft Internet Private Limited,2
+AS34577 SKAT TV Ltd.,2
+AS266313 LESTETRONICS ME,2
+AS7482 Asia Pacific On-line Service Inc.,2
+AS48146 Triple A Fibra S.L.,2
+AS43513 Sia Nano IT,2
+"AS131627 Peicity Digital Cable Television., LTD",2
+AS270668 JULIO CESAR BERNARDELI OLIVEIRA 71218513187,2
+AS51731 GTT a.s.,2
+"AS132100 Myanmar Speed Net Co.,Ltd",2
+AS269587 OMEGA PROVEDOR E SERVICOS DE INTERNET EIRELI-ME,2
+AS9694 Seokyung Cable Television Co.. Ltd.,2
+AS269318 Silva Poltronieri e Poltronieri LTDA,2
+AS6724 Strato AG,2
+AS11664 Techtel LMDS Comunicaciones Interactivas S.A.,2
+AS31012 A1 Hrvatska d.o.o.,2
+AS12301 Invitech ICT Services Kft.,2
+AS140166 Rythym Broadband Pvt Ltd,2
+AS134933 Webline Broadband Pvt Ltd,2
+AS138293 Spacetrade Internet Pvt Ltd,2
+"AS2514 NTT PC Communications, Inc.",2
+AS11816 SetarNet,2
+AS137132 High Speed Broadband,2
+AS15802 Emirates Integrated Telecommunications Company PJSC (EITC-DU),2
+AS12297 VEON Armenia CJSC,2
+AS4771 Spark New Zealand Trading Ltd.,2
+AS41302 KVS Ltd,2
+AS56089 OFFRATEL,2
+AS5394 UNIDATA S.p.A.,2
+AS21826 Corporacion Telemic C.A.,2
+AS48212 MTS PJSC,2
+AS54198 VIANET,2
+AS9762 HYUNDAI COMMUNICATIONS NETWORK,2
+AS262401 GSTN DO BRASIL LTDA,2
+AS9583 Sify Limited,2
+AS133398 Tele Asia Limited,2
 AS37671 GLOBALNET-AS,2
-AS49981 WorldStream B.V.,2
-AS269267 Wilson Barbosa Comunicacoes ME,2
+AS13124 A1 Bulgaria EAD,2
+AS12810 A1 Hrvatska d.o.o.,2
+AS59162 U.P. COMMUNICATION SERVICES PVT LTD,2
+AS44034 Hi3G Access AB,2
+AS51132 Arkaden Konsult AB,2
+AS62729 ASMALLORANGE1,2
+AS55699 PT. Cemerlang Multimedia,2
+AS137143 Minnal Digital Network Private Limited,2
+AS15774 Joint Stock Company TransTeleCom,2
+AS36997 INFOCOM,2
+AS52686 F.J.FANTINI AMPARO ME,2
+AS266546 TWF NET PROVEDOR DE INTERNET EIRELI- ME,2
+AS2905 TICSA-ASN,2
+AS27695 EDATEL S.A. E.S.P,2
+AS135808 Fiberzone Communications Pvt Ltd,2
+AS27964 RSONet,2
+AS30689 FLOW-NET,2
+AS269705 Jms Telecom,2
+AS263634 TACNET TELECOM,2
+AS42334 Broadband Plus S.a.l.,2
+AS42560 Telemach d.o.o. Sarajevo,2
 AS4750 CS LOXINFO PUBLIC COMPANY LIMITED,2
 AS61053 UAB ESNET,2
-AS8581 University Of Ioannina,2
-AS62729 ASMALLORANGE1,2
-AS16322 Pars Online PJS,2
-AS2497 Internet Initiative Japan Inc.,2
-AS270828 FULL NET,2
-AS15802 Emirates Integrated Telecommunications Company PJSC (EITC-DU),2
-AS197897 5KOM OOD,2
-AS35612 EOLO S.p.A.,2
-AS54198 VIANET,2
-"AS136188 NINGBO, ZHEJIANG Province, P.R.China.",2
-AS41302 KVS Ltd,2
-AS11664 Techtel LMDS Comunicaciones Interactivas S.A.,2
-AS6724 Strato AG,2
-AS13124 A1 Bulgaria EAD,2
+AS39501 Parvaresh Dadeha Co. Private Joint Stock,2
+AS2510 FUJITSU LIMITED,2
+AS50477 Svyaz-Energo Ltd.,2
 AS41733 Perspectiva Ltd.,2
 AS53006 ALGAR TELECOM S/A,2
-AS270668 JULIO CESAR BERNARDELI OLIVEIRA 71218513187,2
-AS2905 TICSA-ASN,2
-AS7482 Asia Pacific On-line Service Inc.,2
-AS206067 Three,2
-AS50463 Triple C Cloud Computing Ltd.,2
-AS48212 MTS PJSC,2
-AS136349 Rainbow Internet Teleservices Private Limited,2
-AS12810 A1 Hrvatska d.o.o.,2
-AS51407 Mada ALArab LTD,2
-AS25620 COTAS LTDA.,2
-AS24835 RAYA Telecom - Egypt,2
-AS7782 ALSK-7782,2
-AS18001 Dialog Axiata PLC.,2
-"AS9930 TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah A",2
-AS48146 Triple A Fibra S.L.,2
-AS398019 DYNU,2
-AS36925 ASMedi,2
-AS38851 TNET Communication Inc.,2
-AS263006 Interone Telecom Ltda,2
-AS27695 EDATEL S.A. E.S.P,2
-AS133398 Tele Asia Limited,2
-AS20485 Joint Stock Company TransTeleCom,2
-AS9583 Sify Limited,2
-AS17139 NETRANGE,2
-AS56089 OFFRATEL,2
-AS38710 Worldcall Broadband Limited,2
-AS30779 TRK Cable TV LLC,2
+AS210228 Web Hosted Group Ltd,2
+AS266214 UTIL PROVEDOR DE INTERNET LTDA - ME,2
+AS269237 CarandaiNet Servicos de Internet Ltda.,2
 AS135826 Syntego Technologies India Private Limited,2
-AS36997 INFOCOM,2
-AS270911 J. S. DE CASTRO BANDEIRA FORTE,2
-AS48282 Hosting technology LTD,2
+"AS14178 Megacable Comunicaciones de Mexico, S.A. de C.V.",2
+AS48861 Apaga Technologies CJSC,2
+AS268625 NETFAST TELECOMUNICACOES E MULTIMIDIA LTDA,2
+AS49821 Elektrika Ltd,2
+AS206067 Three,2
+AS134316 World Star Communication,2
+AS49749 VostokMediaSvyaz Ltd.,2
+AS136349 Rainbow Internet Teleservices Private Limited,2
+AS17622 China Unicom Guangzhou network,2
+AS9145 EWE-Tel GmbH,2
+"AS9930 TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah A",2
+AS10036 DLIVE,2
+AS1241 Forthnet,2
+AS262669 KONNET TELECOMUNICACOES LTDA - EPP,2
+AS23314 ORLANDOTELCO,2
+"AS18429 Extra-Lan Technologies Co., LTD",2
+AS17139 NETRANGE,2
+AS135815 Netrexo Communications Private Limited,2
+AS31863 DACEN-2,2
+AS204997 NTX Technologies s.r.o.,2
+AS56030 Voyager Internet Ltd.,2
+AS15419 SC Lithuanian Radio and TV Center,2
+AS38851 TNET Communication Inc.,2
+AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.,2
+AS47995 Apple Technologies LLC,2
+AS134884 ARICHWAL IT SERVICES PRIVATE LIMITED,2
+AS38710 Worldcall Broadband Limited,2
 AS135754 Golden Tiger Telecom Pvt Ltd,2
-AS30936 RENET COM Ltd.,2
-AS270592 new core tecnologia e informatica eirelli,1
-AS10392 NSB1-NET,1
-AS196740 Teleradiocompany TeleLan LLC,1
-AS29314 Vectra S.A.,1
-AS52078 Martel Marta Bienia,1
-AS37027 SIMBANET-AS,1
-AS7418 TELEFONICA CHILE S.A.,1
-AS35516 Rostelecom,1
-AS50584 DOMINET Sp. z o.o.,1
-AS394380 LEASEWEB-USA-DAL-10,1
-AS49147 ET ASNET - Altan Halim,1
-AS203217 Horizon Scope Mobile Telecom WLL,1
-AS48239 Scientific-Production Enterprise Information Technologies Ltd,1
-AS34083 Arpinet LLC,1
-AS13000 Leon Sp. z o.o.,1
-AS44265 Smoltelecom Ltd,1
-"AS9931 The Communication Authoity of Thailand, CAT",1
-AS136643 Net-raj Technology Pvt Ltd Opc,1
-AS10973 KALAMA,1
-AS36996 TELECOM-NAMIBIA,1
-"AS28438 ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.",1
-AS44493 Chelyabinsk-Signal LLC,1
-AS262729 Telemidia Sistema de Telecomunicacao Ltda,1
-"AS9658 Eastern Telecoms Phils., Inc.",1
-AS57096 GlobalAsia Telecom Ltd,1
-AS18033 CMB TAEGU BROADCASTING,1
-"AS6739 Vodafone Ono, S.A.",1
-AS21409 Ikoula Net SAS,1
-AS264938 Online TELECOM,1
-AS9698 LG HelloVision Corp.,1
-AS139526 Revolution Broadband Pvt.ltd.,1
-AS21050 Fast Telecommunications Company W.L.L.,1
-AS46353 INTERMAX-AS,1
-AS393227 RTCOL-INTERNET,1
-AS200615 oneCorp Systems,1
-AS41881 Fanava Group,1
-AS269725 ACAS TECNOLOGIAS S.A.,1
-AS266144 Rosana Ferreira da Silva Multimidia ME,1
-AS19624 SERVERROOM,1
-"AS38684 CMB Daejeon Broadcasting Co,.Ltd",1
-AS37560 CYBERDYNE,1
-AS137084 Sense Connect It Pvt Ltd,1
-AS50360 Tamatiya EOOD,1
-AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA,1
-AS55341 51/A RACHNA MIDAS GOKULPETH,1
-AS267015 EMPRESA DE SERVICOS ADM. DE ITUBERA LTD,1
-AS61714 Core3 Solucoes em Tecnologia EIRELLI-ME,1
-AS31163 PJSC MegaFon,1
-AS133982 Excitel Broadband Private Limited,1
-AS31036 JSC ER-Telecom Holding,1
-AS64111 INFORMATICA BLUEHOSTING LIMITADA,1
-"AS7470 TRUE INTERNET Co.,Ltd.",1
-AS6389 BELLSOUTH-NET-BLK,1
-AS16863 HOMESC,1
-AS56639 Private Entrepreneur Saranchuk Mykola Mykolayovych,1
-AS43529 ViDaNet Cabletelevision Provider Ltd.,1
-AS262773 OndaNet Ltda,1
-AS855 CANET-ASN-4,1
-AS12576 EE Limited,1
-AS29420 NetAssist LLC,1
-AS21804 ACCESS-SK,1
-AS57888 Telesat d.o.o.,1
-AS43595 Ugresha Network Ltd.,1
-AS47377 Orange Belgium SA,1
-AS264870 Ipnet Comunicacoes LTDA,1
-AS57311 Fop Iliushenko Volodymyr Olexandrovuch,1
-AS265989 T. GARCIA COMUNICACOES - ME,1
-AS27017 ZIPLY-FIBER-LEGACY-ASN,1
-AS6821 Makedonski Telekom AD-Skopje,1
-AS29165 Aridor Communications Ltd,1
-AS44391 JSC Elektrosvyaz,1
-AS15836 Arax-Impex s.r.l.,1
-AS1257 TELE2,1
-AS132839 POWER LINE DATACENTER,1
-AS6057 Administracion Nacional de Telecomunicaciones,1
-AS268228 PEDRO ARAUJO DO NASCIMENTO NETO,1
-AS9541 Cyber Internet Services (Pvt) Ltd.,1
-AS263131 Crvnet Comunicacoes Junqueira e Guimaraes ltda,1
-AS265831 SOC. COMERCIAL WIRENET CHILE LTDA.,1
-AS28661 HOTLINK INTERNET LTDA,1
-AS3223 Voxility LLP,1
-AS47262 Hamara System Tabriz Engineering Company,1
-AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP,1
-AS33387 NOCIX,1
-AS18419 DaDa Broadband LTD.,1
-AS52602 SKORPION SISTEMA DE TELECOMUNICACOES LTDA,1
-AS25071 RadioCom Ltd,1
-AS8866 Vivacom,1
-AS50258 Teyla Ltd.,1
-AS29614 VODAFONE GHANA AS INTERNATIONAL TRANSIT,1
-AS812 ROGERS-COMMUNICATIONS,1
-AS5466 Eir Broadband,1
-AS42610 Rostelecom,1
-AS17753 INTERNET SERVICE PROVIDER,1
-AS16044 IPORT LLC,1
-AS199473 Barnet,1
-AS63612 Shenzhen Qianhai bird cloud computing Co. Ltd.,1
-AS26277 PREMIANET,1
-AS43830 Digital Energy LLC,1
-AS28126 BRISANET SERVICOS DE TELECOMUNICACOES LTDA,1
-AS9597 KDDI Web Communications Inc.,1
-AS135330 ADCDATA.COM,1
-"AS6412 KW KEMS Block-A, Floor 7, Souq Al-Kabeer Kuwait City, State of Kuwait P O Box 3623, Safat 130",1
-AS56433 LocalNet Ltd.,1
+AS134875 ZPOINT KOTA,2
+AS17857 T Broad,2
+AS137635 J.sky Media Pvt.ltd.,2
+AS267005 WEB LINK DIGITAL EIRELI - ME,2
+AS137153 Optisky Fibernet Private Limited,2
+AS133776 Quanzhou,2
+AS50923 Metroset,2
+AS267033 serrasul telecom ltda,2
+AS18001 Dialog Axiata PLC.,2
+AS269267 Wilson Barbosa Comunicacoes ME,2
+AS22489 ZCOLO-SAN01,2
+AS35916 MULTA-ASN1,2
+AS197049 Internet Serwis Wojciech Bandurowski,2
+AS6848 Telenet BVBA,2
+AS38845 Fu Jen Catholic University,2
+AS25513 PJSC Moscow city telephone network,2
+AS267647 RODOLFO TREVIZAM FERMINO DE OLIVEIRA - EPP,2
+AS12586 GHOSTnet GmbH,2
+AS35706 Net at Once Sweden AB,2
+"AS136188 NINGBO, ZHEJIANG Province, P.R.China.",2
+AS11081 United Telecommunication Services (UTS),2
+AS49981 WorldStream B.V.,2
+AS197897 5KOM OOD,2
+AS48282 Hosting technology LTD,2
+"AS12334 R Cable y Telecable Telecomunicaciones, S.A.U.",2
 AS37340 Spectranet,1
-AS15706 Sudatel,1
-AS1640 TGTEL,1
-AS14654 WAYPORT,1
-AS1136 KPN B.V.,1
-AS37492 ORANGE,1
-AS132116 Ani Network Pvt Ltd,1
-AS27884 CABLECOLOR S.A.,1
-AS8492 OBIT Ltd.,1
-AS393886 LEASEWEB-USA-MIA-11,1
-AS262659 ULTRAWAVE TELECOM,1
-AS51737 Super Link Communications Co. Ltd,1
-AS196921 Wireless Mobile Data Company,1
-AS20257 FTC-INET,1
-AS12824 home.pl S.A.,1
-AS16591 GOOGLE-FIBER,1
-AS32860 CATS-NET-NETWORK,1
-AS30083 AS-30083-GO-DADDY-COM-LLC,1
-AS131111 PT Mora Telematika Indonesia,1
-AS12310 iNES GROUP SRL,1
-AS12768 JSC ER-Telecom Holding,1
-AS34619 Cizgi Telekomunikasyon Anonim Sirketi,1
-AS4609 Companhia de Telecomunicacoes de Macau SARL,1
-AS43478 JSC ER-Telecom Holding,1
-AS8374 Polkomtel Sp. z o.o.,1
-AS138290 Unigro Infranet Online Pvt. Ltd.,1
-AS51336 Gemzo information technology Private Joint-Stock company,1
-AS51477 Teleradiokompaniya Kandalaksha Ltd,1
-AS35807 SkyNet Ltd.,1
-AS44077 AM NET Ltd.,1
-AS135796 Worldnet Internet And Service Provider Private Limited,1
-AS133652 Zapbytes Technologies Pvt. Ltd.,1
-AS15589 Clouditalia Telecomunicazioni S.p.A.,1
-AS263110 Louvetel Comunicacao Comercial Ltda ME,1
-AS58563 CHINANET Hubei province network,1
-AS262591 CONECTION SERVICOS DE VALOR ADICIONADO LTDA,1
-AS64200 VIVIDHOSTING,1
-AS262862 PR TELECOMUNICACOES LTDA,1
-AS27866 CO.PA.CO.,1
-AS133278 Dehradun Enet Solutions Private Ltd,1
-AS205768 Fiberix Iletisim Hizmetleri Ltd. Sti.,1
-AS135232 IPNET COMMUNICATIONS,1
-AS29084 Comnet Bulgaria Holding Ltd.,1
-AS36487 NEB-SANDHILLS-NET,1
-AS59734 Inet.ru Ltd.,1
-AS138289 Smart Choice Wireless Network Pvt Ltd,1
-AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L,1
-AS41209 MTS PJSC,1
-AS266761 VICENTE CLAUDIO ORLANDO,1
-AS203877 Astra Telekom Doo Beograd,1
-AS268143 MOC INTERNET LTDA,1
-AS51624 21 Century Telecom Ltd,1
-AS48004 PE Tsibrankov Konstantin Igorevich,1
-AS61204 Net-tv Systems Srl,1
-AS268565 Odete A dos Santos ME,1
-AS1403 EBOX,1
-AS6280 SYNAPSE,1
-AS131299 tornado net private limited,1
-AS137138 S A Internet Solution Pvt Ltd,1
-AS268323 AZZA TELECOM SERVICOS EM TELECOMUNICACOES LTDA,1
-AS199319 Voice-Net S.A.,1
-AS262872 DIGICONTROL SERVICOS DE PROVEDORES LTDA,1
-AS17924 SmarTone Mobile Communications Ltd,1
-AS16495 CABLEAM-AZ-AS,1
-AS15146 CABLEBAHAMAS,1
-AS265065 Ribernet Comunicacoes Ltda,1
-AS268157 CX PRATES JUSTILIANO TELECOMUNICACOES - ME,1
-AS58966 Benchmark Infotech Services Pvt.Ltd.,1
-AS265867 Trans Ocean Network,1
-AS14117 Telefonica del Sur S.A.,1
-AS14615 ROCK-HILL-TELEPHONE,1
-AS48592 Shabakeh Gostar Dorna Cooperative Co.,1
-AS35815 Center-Telekom LLC,1
-AS208410 Internet Hosting LTD,1
-AS28326 Total Telecom LTDA-ME,1
-AS139900 RELIANCE CATV AND ENTERTAINMENT SERVICES,1
-AS60631 Pars Parva System Co. Ltd.,1
-AS57269 Digi Spain Telecom S.l.u.,1
-AS36941 MTDS-AS,1
-AS17547 M1 NET LTD,1
-AS394256 CLOUDSINGULARITY,1
-AS31029 M-REAL NET Ltd.,1
-AS12418 Quantum CJSC,1
-AS262327 High Tech Informatica Ltda,1
-AS47702 Teleradiocompany Discovery Ltd.,1
-AS18103 Neuviz Net,1
-AS138245 Xpress Net Solution,1
-AS31195 PJSC MegaFon,1
-AS21021 Multimedia Polska S.A.,1
-AS136342 Winux Communications Pvt. Ltd.,1
-AS137152 Ap Netcom Services,1
-AS37342 MOVITEL,1
-AS139521 Padmnet Broadband Service Pvt. Ltd.,1
-AS6871 British Telecommunications PLC,1
-AS52015 Dancer LLC,1
-AS13489 EPM Telecomunicaciones S.A. E.S.P.,1
-"AS48524 INTERRA telecommunications group, Ltd.",1
-AS263993 AUTOFAST SOLUCOES EM TECNOLOGIA LTDA,1
-AS9370 SAKURA Internet Inc.,1
-AS267248 AIPEER TELECOMUNICACOES,1
-AS138195 MOACK.Co.LTD,1
-AS270295 MVM INTERNET FIBRA OPTICA,1
-AS10143 Exetel Pty Ltd,1
-AS263492 VIPMAX INTERNET LTDA,1
-AS36666 GTCOMM,1
-AS6147 Telefonica del Peru S.A.A.,1
-AS268248 UPNETIX TELECOM,1
-AS262532 VAS Freitas Servicos de Internet Ltda,1
-AS267484 TVC de Assis S/C Ltda,1
-AS55430 Starhub Ltd,1
-AS262530 Quality Net,1
-AS17639 Converge ICT Solutions Inc.,1
-AS38103 T Broad,1
-AS136336 Thamizhaga Internet Communications Private Limited,1
-AS38019 tianjin Mobile Communication Company Limited,1
-AS267186 L AGENOR DE MELO - ME,1
-AS138298 A2j Data Services Pvt. Ltd.,1
-AS50810 Mobin Net Communication Company (Private Joint Stock),1
-AS42676 Joint Stock Company Smartkom,1
-"AS9976 Namincheon Brodcasting Co., Ltd.",1
-AS266242 VIANET GUARACIAMA EIRELI ME,1
-"AS35100 Patrik Lagerman WEB, Enskild Firma",1
-AS266472 ENTRE RIOS SERVICOS DE INFORMATICA LTDA - ME,1
-AS138997 Eons Data Communications Limited,1
-AS13188 Content Delivery Network Ltd,1
-AS11845 Vox-Telecom,1
-AS34723 Real Network and Tel SRL,1
-AS3249 Telia Eesti AS,1
-AS263089 V de M Vargas,1
-AS5639 Telecommunication Services of Trinidad and Tobago,1
-AS50625 Krosnienskie Centrum Informatyczne KROSOFT,1
-AS19994 RACKSPACE,1
-AS135874 Mlcinternet Pvt Ltd,1
-AS3280 LayerBridge SRL,1
-AS50776 CJSC System Telecom,1
-AS28201 Companhia Itabirana Telecomunicacoes Ltda,1
-AS62347 MTS PJSC,1
-AS51836 Pioner-Lan Ltd.,1
-AS3758 SingNet,1
-AS28118 ALTICE DOMINICANA S.A.,1
-AS199494 ETTH Bartosz Bachowski,1
-AS29247 Cosmote Mobile Telecommunications S.A.,1
-AS136333 Jvg Communication Pvt Ltd,1
-AS61818 Miriam dos Santos Oliveira ME,1
-AS262779 Rede Exitus Ltda,1
-"AS9971 TBROAD Dongdaemun cable networks,Inc.",1
-AS52496 COOPERATIVA DE SERVICIOS MULTIPLES REG,1
-AS4638 Telecom Fiji Limited,1
-AS51156 OngNet Plus LLC,1
-AS28146 MHNET TELECOM,1
-AS133774 Fuzhou,1
-"AS23724 IDC, China Telecommunications Corporation",1
-AS8470 JSC Macomnet,1
-AS209280 SmartHosten,1
-AS17845 Gyeonggi Technopark,1
-AS63859 PT. Eka Mas Republik,1
-AS7562 HCN Dongjak,1
-AS28665 Predlink Rede de Telecomuniccoes Ltda,1
-AS59713 JSC ER-Telecom Holding,1
-AS23889 MauritiusTelecom,1
-AS39869 Livenet Sp. z o.o.,1
-AS44270 TC TOR LLC,1
-AS34797 System Net Ltd,1
-AS36992 Etisalat Misr,1
-AS44798 PP SKS-Pervomaysk,1
-AS51102 IMPATT SRL,1
-AS26615 TIM S/A,1
-AS137151 Greenworld Netcast Private Limited,1
-AS57800 Cadr-TV LLE TVRC,1
-AS28361 RR conect,1
-AS17809 VEE TIME CORP.,1
-AS13110 INEA S.A.,1
-AS6712 TVP Format Llc,1
-AS15491 JSC Silknet,1
-AS20018 MVT-AS,1
-AS57033 TVCOM Ltd.,1
-AS12772 JSC ER-Telecom Holding,1
-AS33588 BRESNAN-33588,1
-AS202422 G-Core Labs S.A.,1
-AS43103 ONE TELECOM ltd,1
-AS197078 Yarnet Ltd,1
-AS203557 DataClub S.A.,1
-AS132752 skynet system,1
-AS137085 Ani Broadband Service Pvt Ltd,1
-AS11976 FIDN,1
-AS20394 MASHELL-TELECOM,1
-AS267516 Company Telecom Ltda,1
-AS34058 Limited Liability Company lifecell,1
-AS3216 PVimpelCom,1
-AS136720 Airtechzone Services India Pvt Ltd,1
-AS20857 Transip B.V.,1
-AS138236 ATS NETWORK,1
-AS49877 RM Engineering LLC,1
-AS267278 ALLYSON DINIZ MELO - ME,1
-AS10066 LG HelloVision Corp.,1
-"AS13999 Mega Cable, S.A. de C.V.",1
-AS269649 R L DE LIMA,1
-AS264851 IFOTONCORP S.A.,1
-AS8767 M-net Telekommunikations GmbH,1
-AS57069 Dempsey and Clark s.r.o.,1
-AS13536 TVC-AS1,1
-AS4739 Internode Pty Ltd,1
-AS396122 BEC-FIBER,1
-AS7459 GRANDECOM-AS1,1
-AS42003 Libantelecom,1
-AS134285 Andhra Bank,1
-AS138482 SKYVIEW ONLINE LTD,1
-AS266759 BIT2NET S.A,1
-AS268377 LOCALNET TELECOM LTDA,1
-AS263009 FORTE TELECOM LTDA.,1
-AS29914 MIDATL-3,1
-AS134835 Starry Network Limited,1
-AS132996 Threesa Infoway Pvt.Ltd.,1
-AS24589 Telenet SIA,1
-AS16116 Pelephone Communications Ltd.,1
-AS26166 WATCHCOMM-WEST-OH,1
-AS53089 IDC TELECOM EIRELLI,1
-AS62000 Netrix SAS,1
-AS38091 LG HelloVision Corp.,1
-AS52519 rodrigo przybycien,1
-AS12829 Angelsoft ET,1
-AS28250 TELBRAX LTDA,1
-AS7029 WINDSTREAM,1
-AS270609 Lucas Aparecido Bernardo -ME,1
-AS264934 VGP INTERNET LTDA - ME,1
-AS267270 MV COMUNICACOES LTDA - ME,1
-AS263373 GigaNet Telecom,1
-AS14988 BTC-GATE1,1
-AS138225 One Eight Technologies Private Limited,1
-AS52354 Atlantica Video Cable S.A.,1
-AS6876 TENET Scientific Production Enterprise LLC,1
-AS268224 TCPNET INFORMATICA E COMUNICACAO EIRELI - ME,1
-AS16629 CTC. CORP S.A. (TELEFONICA EMPRESAS),1
-"AS21127 JSC Zap-Sib TransTeleCom, Novosibirsk",1
-AS15924 Vodafone Net Iletisim Hizmetleri Anonim Sirketi,1
-AS42155 Evard Antennenbau AG,1
-AS135686 Navyug Networks Info Private Limited,1
-AS35104 JSC Kaztranscom,1
-AS6400 Compania Dominicana de Telefonos S. A.,1
-AS55714 Fiberlink Pvt.Ltd,1
-AS8560 1&1 Ionos Se,1
-AS41268 LANTA Ltd,1
-AS34977 Procono S.A.,1
-AS9498 BHARTI Airtel Ltd.,1
-AS266033 rafael luciano fal & cia ltda,1
-AS268588 J.LP FONSECA TELECOM,1
-AS40545 EMPIRE-40545,1
-AS197275 Link Telecom NN Ltd.,1
-"AS17739 Shanghai Telecom Haplink Network Co., Ltd",1
-AS133255 Elxer Communications Private Limited,1
-AS52537 microplan informatica ltda.,1
-AS48747 Lukovitnet Ltd.,1
-AS30836 23VNet Kft.,1
-AS15377 ISP Fregat Ltd.,1
-AS206429 CORSAT s.r.o,1
-AS34661 TOV TRK Briz,1
-AS13490 BUCKEYECABLEVISION,1
-AS270972 NET ONE TELECOM LTDA - ME,1
-AS10103 HK Broadband Network Ltd.,1
-AS137344 PT. TRANS NASIONAL TEKNOLOGI,1
-AS266628 CYBER LITORAL INFORMATICA LTDA - ME,1
-AS43395 Pooya Parto Qeshm Cooperative Company,1
-AS134067 Uniti Wireless Pty Ltd,1
-AS44821 One Operateur SAS,1
-AS24165 UNION BROADBAND NETWORK,1
-AS32233 PERSONA,1
-AS28212 DGNet Telecom,1
-AS21145 IBC Israel Broadband Company Ltd,1
-AS22647 ELLTEL,1
-AS9471 ONATI,1
-AS61914 Roberto Keller - ME,1
-AS19397 ACN-DIGITAL-PHONE,1
-AS52679 VIRTUAL NET SERVICOS DE INFORMATICA LTDA - ME,1
-AS50473 Altagen JSC,1
-AS31205 PJSC MegaFon,1
-AS265276 SPEED_MAAX BANDA LARGA LTDA - ME,1
-AS270832 DANTAS & ARAGAO LTDA,1
-AS10094 Unified National Networks,1
-AS2518 BIGLOBE Inc.,1
-AS137604 Sahjanand Telecom Pvt Ltd,1
-AS268560 VIPTELECOM INTERNET BANDA LARGA EIRELI - ME,1
-AS8697 Jordan Telecommunications Company,1
-AS21570 ACI-1,1
-AS34971 Prometeus di Daniela Agro,1
-AS204725 UA VPS LLC,1
-AS207566 Hostway LLC,1
-AS57044 JSC ER-Telecom Holding,1
-AS27665 Columbus Communications Trinidad Limited.,1
-AS135257 DL GTPL Broadband Private Limited,1
-"AS131459 88c, Race Course Road, Coimbatore 641018",1
-AS131325 CHINATELECOM JIANGSU province NANTONG MAN network,1
-AS133699 Ziptel IT Solutions Pvt Ltd,1
-AS27773 MILLICOM CABLE EL SALVADOR S.A. DE C.V.,1
-"AS199853 Telecable Murcia, S.L.",1
-"AS6855 Slovak Telecom, a. s.",1
-AS14051 SUREWEST,1
-AS58678 Intech Online Private Limited,1
-AS50512 JSC ER-Telecom Holding,1
-AS48909 CityLine LLC,1
-AS133720 SOFT CALL CUST-O-CARE PRIVATE LIMITED,1
-AS37100 SEACOM-AS,1
-AS42926 Radore Veri Merkezi Hizmetleri A.S.,1
-AS31246 SMART Comp. a.s.,1
-AS42291 OOO Istranet,1
-AS7489 HostUS,1
-AS28343 Unifique Telecomunicacoes SA,1
-AS57630 84 Grams AB,1
-AS138315 Countrylink Communiction Pvt Ltd,1
-AS327805 Bundu-NetworX,1
-AS42498 Gerkon LTD,1
-AS27831 Colombia Movil,1
-AS16342 Toya sp.z.o.o,1
-AS41668 JSC ER-Telecom Holding,1
-AS135825 Pradeep Broadcast Private Ltd,1
-AS29226 JSC Mastertel,1
-AS48544 Tecnotel Servizi Tecnologici srl,1
-AS8426 Claranet Limited,1
-AS139718 Tornado Networks (Pvt.) Limited,1
-"AS131090 CAT TELECOM Public Company Ltd,CAT",1
-AS35297 Dataline LLC,1
-AS42314 fusion services,1
-AS43314 DIANET Ltd.,1
-AS10029 SHYAM SPECTRA PVT LTD,1
-AS35816 Lancom Ltd.,1
-"AS5610 O2 Czech Republic, a.s.",1
-AS34187 LLC Renome-Service,1
-AS208473 Furrera For Telecommunication & Internet Services Co. Private Shareholding Company,1
-AS13213 UK-2 Limited,1
-AS63969 Race Online Limited,1
-AS62282 UAB Rakrejus,1
-AS28093 Cooperativa de Electricidad y Servicios Publicos de Arroyito Ltda,1
-AS52715 SCORPION TELECOMUNICACAO RIBEIRAO PRETO LTDA - ME,1
-AS210075 FHU GUMIS Michal Gluminski,1
-AS138292 Galaxy Digitech India Private Limited,1
-AS139879 Galaxy Broadband,1
-AS268399 ARAUJO & SILVA - ME,1
-AS134278 DNS Infonet Pvt Ltd,1
-AS6910 Digital Cable Systems S.A.,1
-AS48161 Nextgen Communications Srl,1
-AS267091 SANTI & ALMEIDA LTDA - ME,1
-AS44078 ICN Ltd.,1
-AS268720 MegaNet Fibra Optica Cacu,1
-AS133469 Multinet (Udaipur) Private Limited,1
-AS35378 Sat Film Sp. z o.o. i Wspolnicy Sp. k.,1
-AS39927 E-Light-Telecom Ltd.,1
-AS206264 Amarutu Technology Ltd,1
-AS29357 National Mobile Telecommunications Company,1
-AS48096 Enterprise Cloud Ltd.,1
-AS267953 BNET SOLUCOES EM INTERNET LTDA-ME,1
-AS22667 VISTA,1
-AS138316 Vinayaga Communications Pvt Ltd,1
-AS6697 Republican Unitary Telecommunication Enterprise Beltelecom,1
-AS12177 ETS-TELEPHONE-COMPANY,1
-AS36920 KKON,1
-AS17557 Pakistan Telecommunication Company Limited,1
-AS48437 PP Merezha,1
 AS18046 DongFong Technology Co. Ltd.,1
-AS27202 CBK-AS,1
-AS48480 S.C. AltNet C.C. S.R.L.,1
-AS262452 VCNETWORK SOLUCOES TECNOLOGICA,1
-AS34772 NEOTEL DOO export-import Skopje,1
-AS137877 LIGHT CLOUD (HK) LIMITED,1
-AS12683 Rostelecom,1
+AS35815 Center-Telekom LLC,1
+AS15377 ISP Fregat Ltd.,1
+AS21050 Fast Telecommunications Company W.L.L.,1
+AS262659 ULTRAWAVE TELECOM,1
+AS855 CANET-ASN-4,1
+AS37560 CYBERDYNE,1
+AS264851 IFOTONCORP S.A.,1
+"AS35100 Patrik Lagerman WEB, Enskild Firma",1
+AS268588 J.LP FONSECA TELECOM,1
+AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA,1
+AS196740 Teleradiocompany TeleLan LLC,1
+AS263492 VIPMAX INTERNET LTDA,1
+AS14117 Telefonica del Sur S.A.,1
+AS266033 rafael luciano fal & cia ltda,1
+AS44078 ICN Ltd.,1
+AS263373 GigaNet Telecom,1
+AS34977 Procono S.A.,1
+AS24589 Telenet SIA,1
+AS6400 Compania Dominicana de Telefonos S. A.,1
+AS139526 Revolution Broadband Pvt.ltd.,1
+AS36666 GTCOMM,1
+AS43595 Ugresha Network Ltd.,1
+AS8560 1&1 Ionos Se,1
 AS131293 TOT Public Company Limited,1
-AS262851 PLIM TELECOMUNICACOES LTDA-ME,1
-AS29124 Iskratelecom CJSC,1
-AS31133 PJSC MegaFon,1
-AS263432 CORPORATIVA TELECOMUNICACOES EIRELI ME,1
-AS29056 Citycom Telekommunikation GmbH,1
-AS206262 TelKos L.L.C,1
+AS29314 Vectra S.A.,1
+AS197275 Link Telecom NN Ltd.,1
+AS18419 DaDa Broadband LTD.,1
+AS139900 RELIANCE CATV AND ENTERTAINMENT SERVICES,1
+AS29226 JSC Mastertel,1
+AS133982 Excitel Broadband Private Limited,1
+AS44821 One Operateur SAS,1
+AS9541 Cyber Internet Services (Pvt) Ltd.,1
+AS31195 PJSC MegaFon,1
+AS51836 Pioner-Lan Ltd.,1
+AS202422 G-Core Labs S.A.,1
+AS47377 Orange Belgium SA,1
+AS27884 CABLECOLOR S.A.,1
+AS264934 VGP INTERNET LTDA - ME,1
+AS29420 NetAssist LLC,1
+"AS9971 TBROAD Dongdaemun cable networks,Inc.",1
+AS262591 CONECTION SERVICOS DE VALOR ADICIONADO LTDA,1
+AS51102 IMPATT SRL,1
+AS1640 TGTEL,1
+AS35297 Dataline LLC,1
+AS48161 Nextgen Communications Srl,1
+AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP,1
+AS11976 FIDN,1
+AS52679 VIRTUAL NET SERVICOS DE INFORMATICA LTDA - ME,1
+AS136342 Winux Communications Pvt. Ltd.,1
+AS9698 LG HelloVision Corp.,1
 AS135256 ONET DIGITAL NETWORKS PVT. LTD.,1
-"AS197809 Audio Systems s.c. Robert Grzegorek, Aleksander Cuprych",1
-AS199524 G-Core Labs S.A.,1
+AS206264 Amarutu Technology Ltd,1
+AS52537 microplan informatica ltda.,1
+AS8697 Jordan Telecommunications Company,1
+AS13536 TVC-AS1,1
+"AS199853 Telecable Murcia, S.L.",1
+AS34187 LLC Renome-Service,1
+AS7029 WINDSTREAM,1
+AS44077 AM NET Ltd.,1
+AS9597 KDDI Web Communications Inc.,1
+AS58678 Intech Online Private Limited,1
+AS38019 tianjin Mobile Communication Company Limited,1
+AS21409 Ikoula Net SAS,1
+AS209280 SmartHosten,1
+AS43478 JSC ER-Telecom Holding,1
+AS61714 Core3 Solucoes em Tecnologia EIRELLI-ME,1
+AS263009 FORTE TELECOM LTDA.,1
+AS44493 Chelyabinsk-Signal LLC,1
+AS35516 Rostelecom,1
+AS6697 Republican Unitary Telecommunication Enterprise Beltelecom,1
 AS28624 PROVEDORA CMA INTERNET LTDA,1
-AS4181 TDS-AS,1
+AS6821 Makedonski Telekom AD-Skopje,1
+AS48004 PE Tsibrankov Konstantin Igorevich,1
+AS52519 rodrigo przybycien,1
+AS13000 Leon Sp. z o.o.,1
+AS268143 MOC INTERNET LTDA,1
+AS29084 Comnet Bulgaria Holding Ltd.,1
+AS12829 Angelsoft ET,1
+AS12310 iNES GROUP SRL,1
+AS812 ROGERS-COMMUNICATIONS,1
+AS393227 RTCOL-INTERNET,1
+AS9370 SAKURA Internet Inc.,1
+AS267091 SANTI & ALMEIDA LTDA - ME,1
+AS44798 PP SKS-Pervomaysk,1
+AS39927 E-Light-Telecom Ltd.,1
+AS270609 Lucas Aparecido Bernardo -ME,1
+AS138315 Countrylink Communiction Pvt Ltd,1
+AS21021 Multimedia Polska S.A.,1
+AS268377 LOCALNET TELECOM LTDA,1
+AS264938 Online TELECOM,1
+AS10094 Unified National Networks,1
+AS62282 UAB Rakrejus,1
+AS58563 CHINANET Hubei province network,1
+AS48239 Scientific-Production Enterprise Information Technologies Ltd,1
+AS137604 Sahjanand Telecom Pvt Ltd,1
+AS43529 ViDaNet Cabletelevision Provider Ltd.,1
+AS9498 BHARTI Airtel Ltd.,1
 AS17426 Primesoftex Ltd,1
+AS139718 Tornado Networks (Pvt.) Limited,1
+AS63969 Race Online Limited,1
+AS30836 23VNet Kft.,1
+AS63612 Shenzhen Qianhai bird cloud computing Co. Ltd.,1
+AS36941 MTDS-AS,1
+AS262773 OndaNet Ltda,1
+AS203217 Horizon Scope Mobile Telecom WLL,1
+AS6057 Administracion Nacional de Telecomunicaciones,1
+"AS38684 CMB Daejeon Broadcasting Co,.Ltd",1
+AS6876 TENET Scientific Production Enterprise LLC,1
+AS266242 VIANET GUARACIAMA EIRELI ME,1
+AS6712 TVP Format Llc,1
+AS29124 Iskratelecom CJSC,1
+AS12576 EE Limited,1
+AS50512 JSC ER-Telecom Holding,1
+AS270972 NET ONE TELECOM LTDA - ME,1
+AS57096 GlobalAsia Telecom Ltd,1
+AS135796 Worldnet Internet And Service Provider Private Limited,1
+AS28201 Companhia Itabirana Telecomunicacoes Ltda,1
+AS134835 Starry Network Limited,1
+AS7418 TELEFONICA CHILE S.A.,1
+AS64200 VIVIDHOSTING,1
+AS50625 Krosnienskie Centrum Informatyczne KROSOFT,1
+AS267270 MV COMUNICACOES LTDA - ME,1
+AS199473 Barnet,1
+AS16863 HOMESC,1
+AS12772 JSC ER-Telecom Holding,1
+AS132839 POWER LINE DATACENTER,1
+AS42498 Gerkon LTD,1
+AS48437 PP Merezha,1
+AS13490 BUCKEYECABLEVISION,1
+AS28126 BRISANET SERVICOS DE TELECOMUNICACOES LTDA,1
+AS28146 MHNET TELECOM,1
+AS138195 MOACK.Co.LTD,1
+AS1136 KPN B.V.,1
+AS40545 EMPIRE-40545,1
+AS55714 Fiberlink Pvt.Ltd,1
+AS135874 Mlcinternet Pvt Ltd,1
+AS31205 PJSC MegaFon,1
+AS35378 Sat Film Sp. z o.o. i Wspolnicy Sp. k.,1
+AS20257 FTC-INET,1
+AS262452 VCNETWORK SOLUCOES TECNOLOGICA,1
+AS28093 Cooperativa de Electricidad y Servicios Publicos de Arroyito Ltda,1
+AS22667 VISTA,1
+AS42003 Libantelecom,1
+"AS9931 The Communication Authoity of Thailand, CAT",1
+AS10066 LG HelloVision Corp.,1
+AS268224 TCPNET INFORMATICA E COMUNICACAO EIRELI - ME,1
+AS268399 ARAUJO & SILVA - ME,1
+AS265276 SPEED_MAAX BANDA LARGA LTDA - ME,1
+AS52078 Martel Marta Bienia,1
+AS35816 Lancom Ltd.,1
+AS263110 Louvetel Comunicacao Comercial Ltda ME,1
+AS264870 Ipnet Comunicacoes LTDA,1
+AS132996 Threesa Infoway Pvt.Ltd.,1
+AS268157 CX PRATES JUSTILIANO TELECOMUNICACOES - ME,1
+AS41668 JSC ER-Telecom Holding,1
+AS196921 Wireless Mobile Data Company,1
+AS18033 CMB TAEGU BROADCASTING,1
+AS267186 L AGENOR DE MELO - ME,1
+AS7489 HostUS,1
+"AS9976 Namincheon Brodcasting Co., Ltd.",1
+AS3758 SingNet,1
+AS133469 Multinet (Udaipur) Private Limited,1
+AS138316 Vinayaga Communications Pvt Ltd,1
+AS133652 Zapbytes Technologies Pvt. Ltd.,1
+"AS9658 Eastern Telecoms Phils., Inc.",1
+AS55341 51/A RACHNA MIDAS GOKULPETH,1
+AS137152 Ap Netcom Services,1
+AS61204 Net-tv Systems Srl,1
+AS199319 Voice-Net S.A.,1
+AS134278 DNS Infonet Pvt Ltd,1
+AS137138 S A Internet Solution Pvt Ltd,1
+AS62347 MTS PJSC,1
+AS37100 SEACOM-AS,1
+AS269725 ACAS TECNOLOGIAS S.A.,1
+AS37027 SIMBANET-AS,1
+"AS17739 Shanghai Telecom Haplink Network Co., Ltd",1
+AS263432 CORPORATIVA TELECOMUNICACOES EIRELI ME,1
+AS21145 IBC Israel Broadband Company Ltd,1
+AS136333 Jvg Communication Pvt Ltd,1
+AS394256 CLOUDSINGULARITY,1
+AS35104 JSC Kaztranscom,1
+AS265065 Ribernet Comunicacoes Ltda,1
+AS26615 TIM S/A,1
+AS41209 MTS PJSC,1
+AS32860 CATS-NET-NETWORK,1
+AS35807 SkyNet Ltd.,1
+AS136720 Airtechzone Services India Pvt Ltd,1
+AS26277 PREMIANET,1
+AS48096 Enterprise Cloud Ltd.,1
+AS7562 HCN Dongjak,1
+AS263131 Crvnet Comunicacoes Junqueira e Guimaraes ltda,1
+AS12824 home.pl S.A.,1
+AS394380 LEASEWEB-USA-DAL-10,1
+AS10973 KALAMA,1
+AS5639 Telecommunication Services of Trinidad and Tobago,1
+AS57888 Telesat d.o.o.,1
+AS15924 Vodafone Net Iletisim Hizmetleri Anonim Sirketi,1
+AS267953 BNET SOLUCOES EM INTERNET LTDA-ME,1
+"AS48524 INTERRA telecommunications group, Ltd.",1
+AS12418 Quantum CJSC,1
+AS16495 CABLEAM-AZ-AS,1
+AS48592 Shabakeh Gostar Dorna Cooperative Co.,1
+AS7459 GRANDECOM-AS1,1
+AS42676 Joint Stock Company Smartkom,1
+AS28361 RR conect,1
+AS50360 Tamatiya EOOD,1
+AS51336 Gemzo information technology Private Joint-Stock company,1
+AS15491 JSC Silknet,1
+AS51477 Teleradiokompaniya Kandalaksha Ltd,1
+AS262327 High Tech Informatica Ltda,1
+AS57311 Fop Iliushenko Volodymyr Olexandrovuch,1
+AS43830 Digital Energy LLC,1
+AS57069 Dempsey and Clark s.r.o.,1
+AS265989 T. GARCIA COMUNICACOES - ME,1
+"AS28438 ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.",1
+AS270832 DANTAS & ARAGAO LTDA,1
+AS134067 Uniti Wireless Pty Ltd,1
+AS2518 BIGLOBE Inc.,1
+AS133774 Fuzhou,1
+AS48747 Lukovitnet Ltd.,1
+AS31163 PJSC MegaFon,1
+AS13188 Content Delivery Network Ltd,1
+AS206429 CORSAT s.r.o,1
+AS135686 Navyug Networks Info Private Limited,1
+AS8767 M-net Telekommunikations GmbH,1
+AS10103 HK Broadband Network Ltd.,1
+AS138245 Xpress Net Solution,1
+AS197078 Yarnet Ltd,1
+AS265867 Trans Ocean Network,1
+AS262851 PLIM TELECOMUNICACOES LTDA-ME,1
+"AS7470 TRUE INTERNET Co.,Ltd.",1
+AS17753 INTERNET SERVICE PROVIDER,1
+AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L,1
+AS29357 National Mobile Telecommunications Company,1
+AS132116 Ani Network Pvt Ltd,1
+AS134285 Andhra Bank,1
+AS137151 Greenworld Netcast Private Limited,1
+AS20394 MASHELL-TELECOM,1
+AS26166 WATCHCOMM-WEST-OH,1
+AS262729 Telemidia Sistema de Telecomunicacao Ltda,1
+AS3223 Voxility LLP,1
+AS44270 TC TOR LLC,1
+AS28118 ALTICE DOMINICANA S.A.,1
+AS131111 PT Mora Telematika Indonesia,1
+AS17547 M1 NET LTD,1
+AS267278 ALLYSON DINIZ MELO - ME,1
+AS262530 Quality Net,1
+AS268565 Odete A dos Santos ME,1
+AS17845 Gyeonggi Technopark,1
+AS38091 LG HelloVision Corp.,1
+AS137877 LIGHT CLOUD (HK) LIMITED,1
+AS53089 IDC TELECOM EIRELLI,1
+AS38103 T Broad,1
+AS29056 Citycom Telekommunikation GmbH,1
+AS59713 JSC ER-Telecom Holding,1
+AS131325 CHINATELECOM JIANGSU province NANTONG MAN network,1
+AS138298 A2j Data Services Pvt. Ltd.,1
+AS42291 OOO Istranet,1
+AS52496 COOPERATIVA DE SERVICIOS MULTIPLES REG,1
+AS270295 MVM INTERNET FIBRA OPTICA,1
+AS267015 EMPRESA DE SERVICOS ADM. DE ITUBERA LTD,1
+AS51156 OngNet Plus LLC,1
+AS34619 Cizgi Telekomunikasyon Anonim Sirketi,1
+AS34797 System Net Ltd,1
+AS28665 Predlink Rede de Telecomuniccoes Ltda,1
+AS42314 fusion services,1
+AS133255 Elxer Communications Private Limited,1
+"AS131459 88c, Race Course Road, Coimbatore 641018",1
+AS50473 Altagen JSC,1
+AS57044 JSC ER-Telecom Holding,1
+AS267248 AIPEER TELECOMUNICACOES,1
+AS9471 ONATI,1
+AS208410 Internet Hosting LTD,1
+AS29914 MIDATL-3,1
+AS8866 Vivacom,1
+AS23889 MauritiusTelecom,1
+"AS21127 JSC Zap-Sib TransTeleCom, Novosibirsk",1
+AS44391 JSC Elektrosvyaz,1
+AS10143 Exetel Pty Ltd,1
+AS137085 Ani Broadband Service Pvt Ltd,1
+AS132752 skynet system,1
+AS48480 S.C. AltNet C.C. S.R.L.,1
+AS14654 WAYPORT,1
+AS203877 Astra Telekom Doo Beograd,1
+AS31246 SMART Comp. a.s.,1
+AS27831 Colombia Movil,1
+AS34661 TOV TRK Briz,1
+AS268720 MegaNet Fibra Optica Cacu,1
+AS52354 Atlantica Video Cable S.A.,1
+AS138290 Unigro Infranet Online Pvt. Ltd.,1
+AS19397 ACN-DIGITAL-PHONE,1
+AS4609 Companhia de Telecomunicacoes de Macau SARL,1
+AS29614 VODAFONE GHANA AS INTERNATIONAL TRANSIT,1
+AS137084 Sense Connect It Pvt Ltd,1
+AS34971 Prometeus di Daniela Agro,1
+AS18103 Neuviz Net,1
+AS56433 LocalNet Ltd.,1
+AS14615 ROCK-HILL-TELEPHONE,1
+AS6871 British Telecommunications PLC,1
+AS10392 NSB1-NET,1
+AS21804 ACCESS-SK,1
+AS47262 Hamara System Tabriz Engineering Company,1
+AS266472 ENTRE RIOS SERVICOS DE INFORMATICA LTDA - ME,1
+AS13213 UK-2 Limited,1
+AS47702 Teleradiocompany Discovery Ltd.,1
+"AS5610 O2 Czech Republic, a.s.",1
+AS48909 CityLine LLC,1
+AS28250 TELBRAX LTDA,1
+AS15706 Sudatel,1
+AS16342 Toya sp.z.o.o,1
+AS43395 Pooya Parto Qeshm Cooperative Company,1
+AS12177 ETS-TELEPHONE-COMPANY,1
+AS262862 PR TELECOMUNICACOES LTDA,1
+AS199494 ETTH Bartosz Bachowski,1
+AS19994 RACKSPACE,1
+AS8374 Polkomtel Sp. z o.o.,1
+AS135825 Pradeep Broadcast Private Ltd,1
+AS33387 NOCIX,1
+AS138997 Eons Data Communications Limited,1
+AS52602 SKORPION SISTEMA DE TELECOMUNICACOES LTDA,1
+AS42610 Rostelecom,1
+AS29247 Cosmote Mobile Telecommunications S.A.,1
+AS131299 tornado net private limited,1
+AS266628 CYBER LITORAL INFORMATICA LTDA - ME,1
+AS138482 SKYVIEW ONLINE LTD,1
+AS57800 Cadr-TV LLE TVRC,1
+AS32233 PERSONA,1
+AS268228 PEDRO ARAUJO DO NASCIMENTO NETO,1
+AS49877 RM Engineering LLC,1
+AS4181 TDS-AS,1
+AS36992 Etisalat Misr,1
+AS6147 Telefonica del Peru S.A.A.,1
+AS22647 ELLTEL,1
+AS139521 Padmnet Broadband Service Pvt. Ltd.,1
+AS262872 DIGICONTROL SERVICOS DE PROVEDORES LTDA,1
+AS44265 Smoltelecom Ltd,1
+AS1257 TELE2,1
+AS61818 Miriam dos Santos Oliveira ME,1
+AS133278 Dehradun Enet Solutions Private Ltd,1
+AS17924 SmarTone Mobile Communications Ltd,1
+AS61914 Roberto Keller - ME,1
+AS327805 Bundu-NetworX,1
+AS207566 Hostway LLC,1
+AS12768 JSC ER-Telecom Holding,1
+AS46353 INTERMAX-AS,1
+AS28326 Total Telecom LTDA-ME,1
+AS15589 Clouditalia Telecomunicazioni S.p.A.,1
+AS12683 Rostelecom,1
+AS33588 BRESNAN-33588,1
+AS139879 Galaxy Broadband,1
+AS138289 Smart Choice Wireless Network Pvt Ltd,1
+AS10029 SHYAM SPECTRA PVT LTD,1
+AS43314 DIANET Ltd.,1
+AS57630 84 Grams AB,1
+AS39869 Livenet Sp. z o.o.,1
+AS28212 DGNet Telecom,1
+AS138225 One Eight Technologies Private Limited,1
+"AS6855 Slovak Telecom, a. s.",1
+AS51624 21 Century Telecom Ltd,1
+AS37492 ORANGE,1
+AS62000 Netrix SAS,1
+AS28661 HOTLINK INTERNET LTDA,1
+AS63859 PT. Eka Mas Republik,1
+AS205768 Fiberix Iletisim Hizmetleri Ltd. Sti.,1
+AS19624 SERVERROOM,1
+AS24165 UNION BROADBAND NETWORK,1
+AS17809 VEE TIME CORP.,1
+AS17557 Pakistan Telecommunication Company Limited,1
+AS14051 SUREWEST,1
+AS266759 BIT2NET S.A,1
+AS270592 new core tecnologia e informatica eirelli,1
+AS20018 MVT-AS,1
+AS138236 ATS NETWORK,1
+AS57033 TVCOM Ltd.,1
+AS27665 Columbus Communications Trinidad Limited.,1
+AS50584 DOMINET Sp. z o.o.,1
+AS15146 CABLEBAHAMAS,1
+AS30083 AS-30083-GO-DADDY-COM-LLC,1
+"AS131090 CAT TELECOM Public Company Ltd,CAT",1
+AS34083 Arpinet LLC,1
+AS269649 R L DE LIMA,1
+AS42926 Radore Veri Merkezi Hizmetleri A.S.,1
+AS6910 Digital Cable Systems S.A.,1
+AS48544 Tecnotel Servizi Tecnologici srl,1
+AS21570 ACI-1,1
+AS56639 Private Entrepreneur Saranchuk Mykola Mykolayovych,1
+AS31036 JSC ER-Telecom Holding,1
+AS31029 M-REAL NET Ltd.,1
+AS268323 AZZA TELECOM SERVICOS EM TELECOMUNICACOES LTDA,1
+AS133720 SOFT CALL CUST-O-CARE PRIVATE LIMITED,1
+AS8470 JSC Macomnet,1
+AS36996 TELECOM-NAMIBIA,1
+AS16044 IPORT LLC,1
+AS137344 PT. TRANS NASIONAL TEKNOLOGI,1
+AS50776 CJSC System Telecom,1
+AS16591 GOOGLE-FIBER,1
+AS59734 Inet.ru Ltd.,1
+AS43103 ONE TELECOM ltd,1
+"AS197809 Audio Systems s.c. Robert Grzegorek, Aleksander Cuprych",1
+AS36487 NEB-SANDHILLS-NET,1
+AS268560 VIPTELECOM INTERNET BANDA LARGA EIRELI - ME,1
+AS55430 Starhub Ltd,1
+AS265831 SOC. COMERCIAL WIRENET CHILE LTDA.,1
+AS210075 FHU GUMIS Michal Gluminski,1
+AS396122 BEC-FIBER,1
+AS263993 AUTOFAST SOLUCOES EM TECNOLOGIA LTDA,1
+AS15836 Arax-Impex s.r.l.,1
+"AS23724 IDC, China Telecommunications Corporation",1
+AS41881 Fanava Group,1
+AS50810 Mobin Net Communication Company (Private Joint Stock),1
+AS135257 DL GTPL Broadband Private Limited,1
+AS25071 RadioCom Ltd,1
+AS199524 G-Core Labs S.A.,1
+AS16116 Pelephone Communications Ltd.,1
+AS57269 Digi Spain Telecom S.l.u.,1
+AS136643 Net-raj Technology Pvt Ltd Opc,1
+AS34723 Real Network and Tel SRL,1
+AS27866 CO.PA.CO.,1
+"AS6739 Vodafone Ono, S.A.",1
+AS200615 oneCorp Systems,1
+AS52715 SCORPION TELECOMUNICACAO RIBEIRAO PRETO LTDA - ME,1
+AS29165 Aridor Communications Ltd,1
+AS36920 KKON,1
+AS6280 SYNAPSE,1
+AS16629 CTC. CORP S.A. (TELEFONICA EMPRESAS),1
+"AS13999 Mega Cable, S.A. de C.V.",1
+AS8492 OBIT Ltd.,1
+AS3280 LayerBridge SRL,1
+AS4739 Internode Pty Ltd,1
+AS393886 LEASEWEB-USA-MIA-11,1
+AS14988 BTC-GATE1,1
+AS208473 Furrera For Telecommunication & Internet Services Co. Private Shareholding Company,1
+AS203557 DataClub S.A.,1
+AS138292 Galaxy Digitech India Private Limited,1
+AS266761 VICENTE CLAUDIO ORLANDO,1
+AS37342 MOVITEL,1
+AS52015 Dancer LLC,1
+AS34772 NEOTEL DOO export-import Skopje,1
+AS50258 Teyla Ltd.,1
+AS263089 V de M Vargas,1
+AS206262 TelKos L.L.C,1
+AS13489 EPM Telecomunicaciones S.A. E.S.P.,1
+AS5466 Eir Broadband,1
+AS135232 IPNET COMMUNICATIONS,1
+AS8426 Claranet Limited,1
+AS20857 Transip B.V.,1
+AS3249 Telia Eesti AS,1
+AS268248 UPNETIX TELECOM,1
+AS262779 Rede Exitus Ltda,1
+AS13110 INEA S.A.,1
+AS1403 EBOX,1
+AS28343 Unifique Telecomunicacoes SA,1
+AS136336 Thamizhaga Internet Communications Private Limited,1
+AS51737 Super Link Communications Co. Ltd,1
+AS3216 PVimpelCom,1
+AS4638 Telecom Fiji Limited,1
+AS135330 ADCDATA.COM,1
+AS6389 BELLSOUTH-NET-BLK,1
+AS262532 VAS Freitas Servicos de Internet Ltda,1
+"AS6412 KW KEMS Block-A, Floor 7, Souq Al-Kabeer Kuwait City, State of Kuwait P O Box 3623, Safat 130",1
+AS31133 PJSC MegaFon,1
+AS64111 INFORMATICA BLUEHOSTING LIMITADA,1
+AS267516 Company Telecom Ltda,1
+AS27773 MILLICOM CABLE EL SALVADOR S.A. DE C.V.,1
+AS11845 Vox-Telecom,1
+AS27017 ZIPLY-FIBER-LEGACY-ASN,1
+AS204725 UA VPS LLC,1
+AS266144 Rosana Ferreira da Silva Multimidia ME,1
+AS267484 TVC de Assis S/C Ltda,1
+AS17639 Converge ICT Solutions Inc.,1
+AS34058 Limited Liability Company lifecell,1
+AS60631 Pars Parva System Co. Ltd.,1
+AS27202 CBK-AS,1
+AS49147 ET ASNET - Altan Halim,1
+AS42155 Evard Antennenbau AG,1
+AS41268 LANTA Ltd,1
+AS133699 Ziptel IT Solutions Pvt Ltd,1
+AS58966 Benchmark Infotech Services Pvt.Ltd.,1

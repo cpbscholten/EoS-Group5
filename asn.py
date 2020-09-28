@@ -17,10 +17,10 @@ def string_to_seconds_list(string_list):
     seconds_list = []
     for entry in string_list:
         if entry:
-            months = re.findall(r'(\d+) months', entry)
-            days = re.findall(r'(\d+) days', entry)
-            hours = re.findall(r'(\d+) hours', entry)
-            minutes = re.findall(r'(\d+) minutes', entry)
+            months = re.findall(r'(\d+) month', entry)
+            days = re.findall(r'(\d+) day', entry)
+            hours = re.findall(r'(\d+) hour', entry)
+            minutes = re.findall(r'(\d+) minute', entry)
 
             seconds = 0
             seconds += int(minutes[0]) * 60 if minutes else 0
