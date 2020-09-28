@@ -10,6 +10,7 @@ if __name__ == '__main__':
 
     # Count instances of asn_name
     print(data.asn_name.value_counts())
+    data.asn_name.value_counts().to_csv('results/asn_counts.csv')
 
     # descriptive statistics of average response time
     avg_response_times = data.loc[:, 'avg_response_time_seconds']
@@ -20,3 +21,4 @@ if __name__ == '__main__':
 
     # Count instances of countries
     print(data.asn_loc.value_counts())
+    data.asn_loc.value_counts().to_csv('results/countries_list.csv')

@@ -36,7 +36,7 @@ def string_to_datetime(string_to_parse):
         minutes = 0
     return datetime.timedelta(days=days, hours=hours, minutes=minutes)
 
-with open('../dataset.csv') as csv_file:
+with open('dataset.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
