@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import csv
 from operator import itemgetter
+import datetime
+from tabulate import tabulate
 
 first_line = True
 
@@ -30,16 +32,11 @@ def string_to_datetime(string_to_parse):
             minutes = int(string_to_parse[index_minutes-3] + string_to_parse[index_minutes-2])
         else:
             minutes = int(string_to_parse[index_minutes-2])
-    
-    print(str(days) + ":" + str(hours) + ":" + str(minutes))
+    else:
+        minutes = 0
+    return datetime.timedelta(days=days, hours=hours, minutes=minutes)
 
-
-    #4 hours, 54 minutes
-
-
-string_to_datetime("9 hours, 21 minutes")
-
-'''with open('dataset.csv') as csv_file:
+with open('../dataset.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
@@ -50,21 +47,19 @@ string_to_datetime("9 hours, 21 minutes")
             country = row[9]
             if country in countries:
                 countries[country] += 1
-                response_time_per_country[country] = row[11]
+                response_time_per_country[country] += string_to_datetime(row[11])
             else:
                 countries[country] = 1
-                response_time_per_country[country] = row[11]
+                response_time_per_country[country] = string_to_datetime(row[11])
 
-print(countries)
-ordered_countries = {k: v for k, v in sorted(countries.items(), key=lambda item: item[1])}
-print(ordered_countries)
+#print(response_time_per_country)
 
-plt.bar(ordered_countries.keys(), ordered_countries.values(), width = 0.5, color='#0504aa',alpha=0.7)
-plt.grid(axis='y', alpha=0.75)
-plt.xlabel('Country',fontsize=15)
-plt.ylabel('Istances',fontsize=15)
-plt.xticks(fontsize=10)
-plt.yticks(fontsize=10)
-plt.title('Distribution of HPs',fontsize=15)
-plt.show()
-'''
+average_response_time = {}
+
+for key in countries:
+    if(key != ""):
+        average_response_time[key] = str(response_time_per_country[key] / countries [key])
+
+average_list = list(map(list, average_response_time.items()))
+
+print(tabulate(average_list, headers=['Country', 'Avg Response Time']))
