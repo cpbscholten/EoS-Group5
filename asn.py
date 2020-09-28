@@ -1,4 +1,4 @@
-from typing import Dict
+from typing import Dict, Union, Any
 
 import pandas
 from pathlib import Path
@@ -7,8 +7,10 @@ import re
 from ipwhois.net import Net
 from ipwhois.asn import IPASN
 
-domain_to_ip = {}
+base_path = Path().absolute()
 ip_to_asn = {}
+domain_to_ip_table = pandas.read_csv(base_path / 'domain_to_ip.csv').set_index('domain')
+
 
 def string_to_seconds_list(string_list):
     seconds_list = []
@@ -37,7 +39,7 @@ def get_ip(hostname):
         return '0.0.0.0'
 
 
-def ip_to_asn_lookup(ip: str) -> str:
+def ip_to_asn_lookup(ip: str) -> Union[dict, Any]:
     if ip in ip_to_asn:
         return ip_to_asn[ip]
     else:
@@ -46,18 +48,14 @@ def ip_to_asn_lookup(ip: str) -> str:
         return asn_info
 
 
-def url_to_ip_lookup(url: str) -> str:
-    if url in domain_to_ip:
-        return domain_to_ip[url]
+def domain_to_ip(domain):
+    if domain in domain_to_ip_table:
+        return domain_to_ip_table.loc[domain, :]['ip']
     else:
-        ip_no = get_ip(url)
-        domain_to_ip[url] = ip_no
-        return ip_no
+        return None
 
 
 if __name__ == "__main__":
-    # load csv files
-    base_path = Path().absolute()
     # data['dateadded'] >= '2020-01-01')] = 270578 rows
     data = pandas.read_csv(base_path / 'csv.txt', header=8, nrows=270578, parse_dates=['dateadded'])
     response_data = pandas.read_csv(base_path / 'asn_response_data.csv').set_index('ASN')
@@ -67,7 +65,7 @@ if __name__ == "__main__":
 
     # convert urls to ip addresses
     ips_urls = data['url'].str.split('/').str[2].str.split(':').str[0].str.split('www.').str[0]
-    ips = [(url_to_ip_lookup(x) if not bool(re.match(r"^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$", x)) else x) for x in ips_urls]
+    ips = [(domain_to_ip(x) if not bool(re.match(r"^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$", x)) else x) for x in ips_urls]
 
     # retrieve ASN number and location
     asn_data = [ip_to_asn_lookup(x) if x != '0.0.0.0' else None for x in ips]
