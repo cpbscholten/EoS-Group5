@@ -21,5 +21,5 @@ print(biggest_hp[:10])
 sorted_list = sorted(biggest_hp, key=itemgetter(0))[-10:]
 
 plt.pie([item[0] for item in sorted_list], autopct="%0.0f%%")#, labels=[item[1] for item in sorted_list], autopct="%0.0f%%")
-plt.legend([item[1] for item in sorted_list],bbox_to_anchor=(0.85,1.025), loc="upper left")
+plt.legend([item[1] for item in sorted_list],bbox_to_anchor=(0.50,1.059), loc="upper center", ncol=3, fontsize='xx-small')
 plt.show()
