@@ -37,8 +37,13 @@ if __name__ == "__main__":
     # retrieve ASN number and location
     asn_data = [IPASN(Net(x)).lookup() if x != '0.0.0.0' else None for x in ips]
     asn = [x['asn'] if x else None for x in asn_data]
+
     data['asn'] = asn
     data['asn_loc'] = [x['asn_country_code'] if x else None for x in asn_data]
+
+    # add asn maintainer name
+    asn_name = [response_data.loc['AS' + x, :]['Name'] if x else None for x in asn]
+    data['asn_name'] = asn_name
 
     # add average response time
     avg_response_string = [response_data.loc['AS' + x, :]['Average Reaction Time'] if x else None for x in asn]
@@ -46,8 +51,9 @@ if __name__ == "__main__":
     # convert this to seconds for
     data['avg_response_time_seconds'] = string_to_seconds_list(avg_response_string)
 
+    # Count instances of asn_name
+    print(data.asn_name.value_counts())
+
     print(data)
 
-
-
-
+    data.to_csv('dataset.csv', index=False)
