@@ -1,11 +1,12 @@
-from typing import Dict, Union, Any
+from typing import Union, Any
 
 import pandas
 from pathlib import Path
 import socket
 import re
-from ipwhois.net import Net
-from ipwhois.asn import IPASN
+
+import pygeoip as pygeoip
+
 
 base_path = Path().absolute()
 ip_to_asn = {}
@@ -39,17 +40,8 @@ def get_ip(hostname):
         return '0.0.0.0'
 
 
-def ip_to_asn_lookup(ip: str) -> Union[dict, Any]:
-    if ip in ip_to_asn:
-        return ip_to_asn[ip]
-    else:
-        asn_info = IPASN(Net(ip)).lookup()
-        ip_to_asn[ip] = asn_info
-        return asn_info
-
-
 def domain_to_ip(domain):
-    if domain in domain_to_ip_table:
+    if domain and domain in domain_to_ip_table:
         return domain_to_ip_table.loc[domain, :]['ip']
     else:
         return None
@@ -68,26 +60,28 @@ if __name__ == "__main__":
     ips = [(domain_to_ip(x) if not bool(re.match(r"^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$", x)) else x) for x in ips_urls]
 
     # retrieve ASN number and location
-    asn_data = [ip_to_asn_lookup(x) if x != '0.0.0.0' else None for x in ips]
-    # do a split, since there might be a possibility that multiple ASNs are returned.
-    asn = [x['asn'].split(" ")[0] if x else None for x in asn_data]
-    # print(asn.index("7296"))
+    gi = pygeoip.GeoIP('geolite-asn.dat')
 
-    data['asn'] = asn
-    data['asn_loc'] = [x['asn_country_code'] if x else None for x in asn_data]
+    # data['asn'] = asn
+    # data['asn_loc'] = [gi.asn_by_addr(x) if x else None for x in asn_data]
 
     # add asn maintainer name
-    asn_name = [response_data.loc['AS' + x, :]['Name'] if x else None for x in asn]
+    asn_name = [gi.asn_by_addr(x) if x else None for x in ips]
     data['asn_name'] = asn_name
+    asn = [x.split(" ")[0] if x else None for x in asn_name]
+    data['asn'] = asn
+
+    gi = pygeoip.GeoIP('geolite-country.dat')
+    data['asn_loc'] = [gi.country_code_by_addr(x) if x else None for x in ips]
 
     # add average response time
-    avg_response_string = [response_data.loc['AS' + x, :]['Average Reaction Time'] if x else None for x in asn]
+    avg_response_string = [response_data.loc[x, :]['Average Reaction Time'] if x in response_data else None for x in asn]
     data['avg_response_time'] = avg_response_string
     # convert this to seconds for
     data['avg_response_time_seconds'] = string_to_seconds_list(avg_response_string)
 
     # add number of domains hosted on ASN
-    data['domains_hosted'] = [domains_hosted_on_asn.loc['AS' + x, :]['domains'] if x and 'AS' + x in domains_hosted_on_asn.index else -1 for x in asn]
+    data['domains_hosted'] = [domains_hosted_on_asn.loc[x, :]['domains'] if x and x in domains_hosted_on_asn.index else -1 for x in asn]
 
     # Count instances of asn_name
     print(data.asn_name.value_counts())
