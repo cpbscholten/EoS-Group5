@@ -6,8 +6,8 @@ from tabulate import tabulate
 
 first_line = True
 
-response_time_per_country  = {}
-countries = {}
+response_time_per_domains  = {}
+number_of_domains = {}
 
 def string_to_datetime(string_to_parse):
     index_days = string_to_parse.find('days')
@@ -44,22 +44,22 @@ with open('../dataset.csv') as csv_file:
             first_line = False
             pass
         else:
-            country = row[9]
-            if country in countries:
-                countries[country] += 1
-                response_time_per_country[country] += string_to_datetime(row[11])
+            number_of_domain = row[13]
+            if number_of_domain in number_of_domains:
+                number_of_domains[number_of_domain] += 1
+                response_time_per_domains[number_of_domain] += string_to_datetime(row[11])
             else:
-                countries[country] = 1
-                response_time_per_country[country] = string_to_datetime(row[11])
+                number_of_domains[number_of_domain] = 1
+                response_time_per_domains[number_of_domain] = string_to_datetime(row[11])
 
 #print(response_time_per_country)
 
 average_response_time = {}
 
-for key in countries:
-    if(key != ""):
-        average_response_time[key] = str(response_time_per_country[key] / countries [key])
+for key in number_of_domains:
+    if(key != "" and key.isdigit()):
+        average_response_time[key] = str(response_time_per_domains[key] / number_of_domains [key])
 
 average_list = list(map(list, average_response_time.items()))
 
-print(tabulate(average_list, headers=['Country', 'Avg Response Time']))
+print(tabulate(average_list, headers=['Number of domains', 'Avg Response Time']))
