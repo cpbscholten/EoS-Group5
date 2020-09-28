@@ -75,7 +75,7 @@ if __name__ == "__main__":
     data['asn_loc'] = [gi.country_code_by_addr(x) if x else None for x in ips]
 
     # add average response time
-    avg_response_string = [response_data.loc[x, :]['Average Reaction Time'] if x in response_data else None for x in asn]
+    avg_response_string = [response_data.loc[x, :]['Average Reaction Time'] if x in response_data.index else None for x in asn]
     data['avg_response_time'] = avg_response_string
     # convert this to seconds for
     data['avg_response_time_seconds'] = string_to_seconds_list(avg_response_string)
