@@ -58,7 +58,8 @@ def url_to_ip_lookup(url: str) -> str:
 if __name__ == "__main__":
     # load csv files
     base_path = Path().absolute()
-    data = pandas.read_csv(base_path / 'csv.txt', header=8,  nrows=800, parse_dates=['dateadded'])
+    # data['dateadded'] >= '2020-01-01')] = 270578 rows
+    data = pandas.read_csv(base_path / 'csv.txt', header=8, nrows=270578, parse_dates=['dateadded'])
     response_data = pandas.read_csv(base_path / 'asn_response_data.csv').set_index('ASN')
     domains_hosted_on_asn = pandas.read_csv(base_path / 'domains_hosted_per_asn.csv').set_index('ASN')
     # print(domains_hosted_on_asn)
@@ -79,7 +80,6 @@ if __name__ == "__main__":
 
     # add asn maintainer name
     asn_name = [response_data.loc['AS' + x, :]['Name'] if x else None for x in asn]
-
     data['asn_name'] = asn_name
 
     # add average response time
