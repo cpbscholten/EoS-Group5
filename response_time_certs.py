@@ -25,7 +25,7 @@ def string_to_seconds_list(string_list):
             seconds += int(months[0]) * 2628000 if months else 0
             seconds_list.append(seconds)
         else:
-            seconds_list.append(-1)
+            seconds_list.append(None)
     return seconds_list
 
 dataset['Country'] = dataset['Country'].str[2:]
@@ -36,3 +36,5 @@ response_time_per_country = dataset.groupby(['Country']).agg({"response_time_sec
 # %%
 no_of_certs = certs.groupby(['country-code']).size().to_frame('cert_count')
 both = pandas.merge(response_time_per_country, no_of_certs, how='left', left_index=True, right_index=True)
+# correlation:
+both.corr()
