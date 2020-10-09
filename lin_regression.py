@@ -3,10 +3,13 @@ import numpy as np
 import statsmodels.api as sm
 
 kaspersky = pd.read_csv('Data/kaspersky.csv').set_index('country')
+speedtest = pd.read_csv('Data/speedtest.csv').set_index('country')
 print(kaspersky.shape)
 countries_instances = pd.read_csv('results/countries_list.csv').set_index('country')
 
-merged_data = kaspersky.merge(countries_instances, on=['country'])
+merged_data1 = kaspersky.merge(countries_instances, on=['country'])
+print(merged_data1.shape)
+merged_data = merged_data1.merge(speedtest, on=['country'])
 print(merged_data.shape)
 
 
@@ -19,7 +22,8 @@ cols = ["% of Mobiles Infected with Malware",
         "% of Telnet Attacks by Originating Country (IoT)",
         "% of Attacks by Cryptominers",
         "Best Prepared for Cyberattacks",
-        "Most Up-to-Date Legislation"]
+        "Most Up-to-Date Legislation",
+        "speed"]
 
 for col in cols:
     x = merged_data[col]
@@ -28,7 +32,7 @@ for col in cols:
     print(f"Model for {col}")
     print(model.summary())
 
-x = merged_data.loc[:, "% of Mobiles Infected with Malware":"Most Up-to-Date Legislation"]
+x = merged_data[cols]
 model = sm.OLS(y, x).fit()
 model.predict(x)
 print("Combined model")
