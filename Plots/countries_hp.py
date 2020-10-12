@@ -6,7 +6,7 @@ first_line = True
 
 countries = {}
 
-with open('dataset.csv') as csv_file:
+with open('../Data/dataset.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
@@ -27,10 +27,10 @@ print(ordered_countries)
 plt.bar(list(ordered_countries.keys())[1:11], list(ordered_countries.values())[1:11], width = 0.5, color='#0504aa',alpha=0.7)
 plt.grid(axis='y', alpha=0.75)
 plt.xlabel('Country',fontsize=15)
-plt.ylabel('Istances',fontsize=15)
+plt.ylabel('# of Malicious URLs',fontsize=15)
 plt.xticks(fontsize=10)
 plt.yticks(fontsize=10)
 plt.title('Distribution of HPs',fontsize=15)
 
-plt.savefig("results/country.pdf")
+plt.savefig("../results/country.pdf")
 plt.show()
