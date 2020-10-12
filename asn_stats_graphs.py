@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 if __name__ == '__main__':
     # load csv files
     base_path = Path().absolute()
-    data = pandas.read_csv(base_path / 'dataset.csv')
+    data = pandas.read_csv(base_path / 'Data/dataset.csv')
 
     # Count instances of asn_name
     asn_test = data.groupby(['asn_name', 'avg_response_time_seconds', 'domains_hosted']).size().sort_values(ascending=False)
@@ -17,7 +17,7 @@ if __name__ == '__main__':
     # plt.xscale('log')
     plt.xscale('log')
     plt.ylabel('Average response time (s)', fontsize=15)
-    plt.xlabel('# of malicious content hosted', fontsize=15)
+    plt.xlabel('# of Malicious URLs', fontsize=15)
     plt.savefig('results/avg_response-malicous_content.pdf')
     plt.show()
 
