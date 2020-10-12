@@ -6,8 +6,8 @@ import re
 import numpy as np
 base_path = Path().absolute()
 
-dataset = pandas.read_csv('data/asn_response_data.csv')
-certs = pandas.read_json('data/irt-teams.json')
+dataset = pandas.read_csv('Data/asn_response_data.csv')
+certs = pandas.read_json('Data/irt-teams.json')
 
 
 def string_to_seconds_list(string_list):
@@ -44,9 +44,10 @@ both.corr()
 # If there are no certs in that country, set it to 0, instead of NaN
 both = both.fillna(0)
 kaspersky = pandas.read_csv('Data/kaspersky.csv').set_index('country')
+speedtest = pandas.read_csv('Data/speedtest.csv').set_index('country')
 
-merged_data = kaspersky.merge(both, left_index=True, right_index=True)
-
+merged_data1 = kaspersky.merge(both, left_index=True, right_index=True)
+merged_data = merged_data1.merge(speedtest, left_index=True, right_index=True)
 
 #%%
 y = merged_data['response_time_seconds']
@@ -58,6 +59,7 @@ cols = ["% of Mobiles Infected with Malware",
         "% of Attacks by Cryptominers",
         "Best Prepared for Cyberattacks",
         "Most Up-to-Date Legislation",
+        "speed",
         "cert_count"]
 
 for col in cols:

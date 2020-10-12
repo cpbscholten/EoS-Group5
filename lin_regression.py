@@ -6,11 +6,15 @@ kaspersky = pd.read_csv('Data/kaspersky.csv').set_index('country')
 speedtest = pd.read_csv('Data/speedtest.csv').set_index('country')
 print(kaspersky.shape)
 countries_instances = pd.read_csv('results/countries_list.csv').set_index('country')
+certs = pd.read_json('Data/irt-teams.json')
+no_of_certs = certs.groupby(['country-code']).size().to_frame('cert_count')
+
 
 merged_data1 = kaspersky.merge(countries_instances, on=['country'])
 print(merged_data1.shape)
-merged_data = merged_data1.merge(speedtest, on=['country'])
-print(merged_data.shape)
+merged_data2 = merged_data1.merge(speedtest, on=['country'])
+print(merged_data2.shape)
+merged_data = merged_data2.merge(no_of_certs, left_index=True, right_index=True)
 
 
 # x = merged_data.loc[:, "% of Mobiles Infected with Malware":"Most Up-to-Date Legislation"]
@@ -23,7 +27,8 @@ cols = ["% of Mobiles Infected with Malware",
         "% of Attacks by Cryptominers",
         "Best Prepared for Cyberattacks",
         "Most Up-to-Date Legislation",
-        "speed"]
+        "speed",
+        "cert_count"]
 
 for col in cols:
     x = merged_data[col]
